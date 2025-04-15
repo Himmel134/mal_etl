@@ -103,7 +103,35 @@ def extract_anime_data(ranking_types: list[str], access_token: str, refresh_toke
 
 @task(name="transform-anime-data", log_prints=True)
 def transform_to_dataframe(data: list[dict]) -> pd.DataFrame:
-    return pd.DataFrame(data)
+    df = pd.DataFrame(data)
+
+    if df.empty:
+        return df
+
+    df["id"] = df["id"].astype("Int64")
+    df["mean"] = df["mean"].astype("float64")
+    df["rank"] = df["rank"].astype("Int64")
+    df["popularity"] = df["popularity"].astype("Int64")
+    df["num_list_users"] = df["num_list_users"].astype("Int64")
+    df["num_scoring_users"] = df["num_scoring_users"].astype("Int64")
+    df["num_episodes"] = df["num_episodes"].astype("Int64")
+    df["start_date"] = pd.to_datetime(df["start_date"], errors="coerce").dt.date
+    df["end_date"] = pd.to_datetime(df["end_date"], errors="coerce").dt.date
+    df["ranking_date"] = pd.to_datetime(df["ranking_date"]).dt.date
+
+    return df
+
+@task(name="load-anime-to-bigquery", log_prints=True)
+def load_to_bigquery(df: pd.DataFrame, table_name: str, project_id: str, dataset_id: str, credentials, if_exists: str = "append"):
+    print("🧪 DataFrame shape:", df.shape)
+    print("📋 DataFrame preview:\n", df.head())
+    pandas_gbq.to_gbq(
+        dataframe=df,
+        destination_table=f"{dataset_id}.{table_name}",
+        project_id=project_id,
+        credentials=credentials,
+        if_exists=if_exists
+    )
 
 @task(name="load-anime-to-bigquery", log_prints=True)
 def load_to_bigquery(df: pd.DataFrame, table_name: str, project_id: str, dataset_id: str, credentials, if_exists: str = "append"):
