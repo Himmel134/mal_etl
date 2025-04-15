@@ -8,11 +8,23 @@ from prefect_gcp import GcpCredentials
 import pandas_gbq
 
 # === ENVIRONMENT SETUP ===
-ACCESS_TOKEN = os.environ["ACCESS_TOKEN"]
-REFRESH_TOKEN = os.environ["REFRESH_TOKEN"]
-CLIENT_ID = os.environ["CLIENT_ID"]
-PROJECT_ID = os.environ["PROJECT_ID"]
-DATASET_ID = os.environ["DATASET_ID"]
+@task
+def debug_env():
+    print("ACCESS_TOKEN:", os.getenv("ACCESS_TOKEN"))
+
+def get_env_variable(key: str, required: bool = True) -> str:
+    value = os.getenv(key)
+    if required and not value:
+        print(f"[WARNING] Environment variable '{key}' is missing.")
+        return ""
+    return value
+
+# Gunakan getenv agar tidak error saat dijalankan di agent Prefect yang tidak punya .env
+ACCESS_TOKEN = get_env_variable("ACCESS_TOKEN")
+REFRESH_TOKEN = get_env_variable("REFRESH_TOKEN")
+CLIENT_ID = get_env_variable("CLIENT_ID")
+PROJECT_ID = get_env_variable("PROJECT_ID")
+DATASET_ID = get_env_variable("DATASET_ID")
 tz = ZoneInfo("Asia/Jakarta")
 
 # GCP credentials
@@ -38,7 +50,7 @@ def fetch_anime_ranking(ranking_type: str, access_token: str) -> list[dict]:
     url = (
         f"https://api.myanimelist.net/v2/anime/ranking?"
         f"ranking_type={ranking_type}&limit=50&fields="
-        "id,title,mean,rank,popularity,num_list_users,num_scoring_users,"
+        "id,title,mean,rank,popularity,num_list_users,num_scoring_users," 
         "status,start_date,end_date,num_episodes,genres,studios"
     )
     headers = {"Authorization": f"Bearer {access_token}"}
