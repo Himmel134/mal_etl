@@ -14,7 +14,7 @@ DATASET_ID = os.getenv("DATASET_ID")
 tz = ZoneInfo("Asia/Jakarta")
 
 # Load GCP Credentials (from Prefect Block)
-CREDENTIALS = GcpCredentials.load("gcp-credentials").get_credentials_from_service_account_info()
+CREDENTIALS = GcpCredentials.load("gcp-credentials").get_credentials_from_service_account()
 
 # === TASK DEFINITIONS ===
 @task(name="extract-anime-ranking", tags=["extract"], log_prints=True)
