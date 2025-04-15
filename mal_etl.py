@@ -62,45 +62,6 @@ def fetch_anime_ranking(ranking_type: str, access_token: str) -> list[dict]:
     return response.json().get("data", [])
 
 # === TASKS ===
-@task(name="extract-anime-ranking", log_prints=True)
-def extract_anime_data(ranking_types: list[str], access_token: str, refresh_token: str, client_id: str) -> list[dict]:
-    combined_records = []
-    ranking_date = datetime.now(tz).date()
-
-    for ranking_type in ranking_types:
-        try:
-            data = fetch_anime_ranking(ranking_type, access_token)
-        except PermissionError:
-            access_token = refresh_access_token(client_id, refresh_token)
-            data = fetch_anime_ranking(ranking_type, access_token)
-        except Exception as e:
-            print(f"❌ Gagal ambil data '{ranking_type}' - {e}")
-            continue
-
-        for item in data:
-            anime = item["node"]
-            genre_names = [g["name"] for g in anime.get("genres", []) if g.get("name")]
-            studio_names = [s["name"] for s in anime.get("studios", []) if s.get("name")]
-
-            combined_records.append({
-                "id": anime.get("id"),
-                "title": anime.get("title"),
-                "mean": anime.get("mean"),
-                "rank": anime.get("rank"),
-                "popularity": anime.get("popularity"),
-                "num_list_users": anime.get("num_list_users"),
-                "num_scoring_users": anime.get("num_scoring_users"),
-                "status": anime.get("status"),
-                "start_date": anime.get("start_date"),
-                "end_date": anime.get("end_date"),
-                "num_episodes": anime.get("num_episodes"),
-                "genres": ", ".join(genre_names) if genre_names else None,
-                "studios": ", ".join(studio_names) if studio_names else None,
-                "ranking_type": ranking_type,
-                "ranking_date": ranking_date,
-            })
-    return combined_records
-
 @task(name="transform-anime-data", log_prints=True)
 def transform_to_dataframe(data: list[dict]) -> pd.DataFrame:
     df = pd.DataFrame(data)
@@ -108,6 +69,7 @@ def transform_to_dataframe(data: list[dict]) -> pd.DataFrame:
     if df.empty:
         return df
 
+    # Tipe data & parsing tanggal
     df["id"] = df["id"].astype("Int64")
     df["mean"] = df["mean"].astype("float64")
     df["rank"] = df["rank"].astype("Int64")
@@ -115,16 +77,36 @@ def transform_to_dataframe(data: list[dict]) -> pd.DataFrame:
     df["num_list_users"] = df["num_list_users"].astype("Int64")
     df["num_scoring_users"] = df["num_scoring_users"].astype("Int64")
     df["num_episodes"] = df["num_episodes"].astype("Int64")
-    df["start_date"] = pd.to_datetime(df["start_date"], errors="coerce").dt.date
-    df["end_date"] = pd.to_datetime(df["end_date"], errors="coerce").dt.date
-    df["ranking_date"] = pd.to_datetime(df["ranking_date"]).dt.date
+    df["start_date"] = pd.to_datetime(df["start_date"], errors="coerce")
+    df["end_date"] = pd.to_datetime(df["end_date"], errors="coerce")
+    df["ranking_date"] = pd.to_datetime(df["ranking_date"])
+
+    # 🔹 Tambahan transformasi
+    df["start_year"] = df["start_date"].dt.year
+    df["score_bucket"] = pd.cut(
+        df["mean"],
+        bins=[0, 6, 7, 8, 9, 10],
+        labels=["<6", "6-6.9", "7-7.9", "8-8.9", "9+"],
+        include_lowest=True
+    )
+
+    # 🔹 Normalisasi teks
+    df["studios"] = df["studios"].str.lower().str.strip()
+    df["genres"] = df["genres"].str.lower().str.strip()
+
+    # 🔹 Pisah genres jadi list
+    df["genre_list"] = df["genres"].str.split(",\s*")
+
+    # 🔹 Explode genre jadi baris
+    df = df.explode("genre_list")
+    df = df.rename(columns={"genre_list": "genre"})
 
     return df
 
 @task(name="load-anime-to-bigquery", log_prints=True)
 def load_to_bigquery(df: pd.DataFrame, table_name: str, project_id: str, dataset_id: str, credentials, if_exists: str = "append"):
-    print("🧪 DataFrame shape:", df.shape)
-    print("📋 DataFrame preview:\n", df.head())
+    print("DataFrame shape:", df.shape)
+    print("DataFrame preview:\n", df.head())
     pandas_gbq.to_gbq(
         dataframe=df,
         destination_table=f"{dataset_id}.{table_name}",
