@@ -62,6 +62,45 @@ def fetch_anime_ranking(ranking_type: str, access_token: str) -> list[dict]:
     return response.json().get("data", [])
 
 # === TASKS ===
+@task(name="extract-anime-ranking", log_prints=True)
+def extract_anime_data(ranking_types: list[str], access_token: str, refresh_token: str, client_id: str) -> list[dict]:
+    combined_records = []
+    ranking_date = datetime.now(tz).date()
+
+    for ranking_type in ranking_types:
+        try:
+            data = fetch_anime_ranking(ranking_type, access_token)
+        except PermissionError:
+            access_token = refresh_access_token(client_id, refresh_token)
+            data = fetch_anime_ranking(ranking_type, access_token)
+        except Exception as e:
+            print(f"Gagal ambil data '{ranking_type}' - {e}")
+            continue
+
+        for item in data:
+            anime = item["node"]
+            genre_names = [g["name"] for g in anime.get("genres", []) if g.get("name")]
+            studio_names = [s["name"] for s in anime.get("studios", []) if s.get("name")]
+
+            combined_records.append({
+                "id": anime.get("id"),
+                "title": anime.get("title"),
+                "mean": anime.get("mean"),
+                "rank": anime.get("rank"),
+                "popularity": anime.get("popularity"),
+                "num_list_users": anime.get("num_list_users"),
+                "num_scoring_users": anime.get("num_scoring_users"),
+                "status": anime.get("status"),
+                "start_date": anime.get("start_date"),
+                "end_date": anime.get("end_date"),
+                "num_episodes": anime.get("num_episodes"),
+                "genres": ", ".join(genre_names) if genre_names else None,
+                "studios": ", ".join(studio_names) if studio_names else None,
+                "ranking_type": ranking_type,
+                "ranking_date": ranking_date,
+            })
+    return combined_records
+
 @task(name="transform-anime-data", log_prints=True)
 def transform_to_dataframe(data: list[dict]) -> pd.DataFrame:
     df = pd.DataFrame(data)
