@@ -8,56 +8,86 @@ from prefect_gcp import GcpCredentials
 import pandas_gbq
 
 # === ENVIRONMENT SETUP ===
-ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
-PROJECT_ID = os.getenv("PROJECT_ID")
-DATASET_ID = os.getenv("DATASET_ID")
+ACCESS_TOKEN = os.environ["ACCESS_TOKEN"]
+REFRESH_TOKEN = os.environ["REFRESH_TOKEN"]
+CLIENT_ID = os.environ["CLIENT_ID"]
+PROJECT_ID = os.environ["PROJECT_ID"]
+DATASET_ID = os.environ["DATASET_ID"]
 tz = ZoneInfo("Asia/Jakarta")
 
-# Load GCP Credentials (from Prefect Block)
+# GCP credentials
 CREDENTIALS = GcpCredentials.load("gcp-credentials").get_credentials_from_service_account()
+
+# === HELPER ===
+def refresh_access_token(client_id: str, refresh_token: str) -> str:
+    url = "https://myanimelist.net/v1/oauth2/token"
+    data = {
+        "grant_type": "refresh_token",
+        "refresh_token": refresh_token,
+        "client_id": client_id,
+    }
+    headers = {"Content-Type": "application/x-www-form-urlencoded"}
+    res = requests.post(url, data=data, headers=headers)
+    if res.status_code == 200:
+        print("🔁 Token refreshed successfully.")
+        return res.json().get("access_token")
+    else:
+        raise Exception(f"Failed to refresh token: {res.text}")
+
+def fetch_anime_ranking(ranking_type: str, access_token: str) -> list[dict]:
+    url = (
+        f"https://api.myanimelist.net/v2/anime/ranking?"
+        f"ranking_type={ranking_type}&limit=50&fields="
+        "id,title,mean,rank,popularity,num_list_users,num_scoring_users,"
+        "status,start_date,end_date,num_episodes,genres,studios"
+    )
+    headers = {"Authorization": f"Bearer {access_token}"}
+    response = requests.get(url, headers=headers)
+    if response.status_code == 401:
+        raise PermissionError("Expired token")
+    response.raise_for_status()
+    return response.json().get("data", [])
 
 # === TASK DEFINITIONS ===
 @task(name="extract-anime-ranking", tags=["extract"], log_prints=True)
-def extract_anime_data(ranking_types: list[str], limit: int = 50) -> list[dict]:
+def extract_anime_data(ranking_types: list[str]) -> list[dict]:
+    global ACCESS_TOKEN
     combined_records = []
     ranking_date = datetime.now(tz).date()
 
     for ranking_type in ranking_types:
-        url = (
-            f"https://api.myanimelist.net/v2/anime/ranking?"
-            f"ranking_type={ranking_type}&limit={limit}&fields="
-            "id,title,mean,rank,popularity,num_list_users,num_scoring_users,"
-            "status,start_date,end_date,num_episodes,genres,studios"
-        )
-        headers = {'Authorization': f'Bearer {ACCESS_TOKEN}'}
-        response = requests.get(url, headers=headers)
+        try:
+            data = fetch_anime_ranking(ranking_type, ACCESS_TOKEN)
+        except PermissionError:
+            # Token expired, refresh
+            ACCESS_TOKEN = refresh_access_token(CLIENT_ID, REFRESH_TOKEN)
+            data = fetch_anime_ranking(ranking_type, ACCESS_TOKEN)
+        except Exception as e:
+            print(f"❌ Gagal ambil data '{ranking_type}' - {e}")
+            continue
 
-        if response.status_code == 200:
-            data = response.json().get("data", [])
-            for item in data:
-                anime = item["node"]
-                genre_names = [g["name"] for g in anime.get("genres", []) if g.get("name")]
-                studio_names = [s["name"] for s in anime.get("studios", []) if s.get("name")]
+        for item in data:
+            anime = item["node"]
+            genre_names = [g["name"] for g in anime.get("genres", []) if g.get("name")]
+            studio_names = [s["name"] for s in anime.get("studios", []) if s.get("name")]
 
-                combined_records.append({
-                    "id": anime.get("id"),
-                    "title": anime.get("title"),
-                    "mean": anime.get("mean"),
-                    "rank": anime.get("rank"),
-                    "popularity": anime.get("popularity"),
-                    "num_list_users": anime.get("num_list_users"),
-                    "num_scoring_users": anime.get("num_scoring_users"),
-                    "status": anime.get("status"),
-                    "start_date": anime.get("start_date"),
-                    "end_date": anime.get("end_date"),
-                    "num_episodes": anime.get("num_episodes"),
-                    "genres": ", ".join(genre_names) if genre_names else None,
-                    "studios": ", ".join(studio_names) if studio_names else None,
-                    "ranking_type": ranking_type,
-                    "ranking_date": ranking_date
-                })
-        else:
-            print(f"Gagal ambil data kategori '{ranking_type}' - status: {response.status_code}")
+            combined_records.append({
+                "id": anime.get("id"),
+                "title": anime.get("title"),
+                "mean": anime.get("mean"),
+                "rank": anime.get("rank"),
+                "popularity": anime.get("popularity"),
+                "num_list_users": anime.get("num_list_users"),
+                "num_scoring_users": anime.get("num_scoring_users"),
+                "status": anime.get("status"),
+                "start_date": anime.get("start_date"),
+                "end_date": anime.get("end_date"),
+                "num_episodes": anime.get("num_episodes"),
+                "genres": ", ".join(genre_names) if genre_names else None,
+                "studios": ", ".join(studio_names) if studio_names else None,
+                "ranking_type": ranking_type,
+                "ranking_date": ranking_date,
+            })
     return combined_records
 
 @task(name="transform-anime-data", tags=["transform"], log_prints=True)
@@ -76,12 +106,11 @@ def load_to_bigquery(df: pd.DataFrame, table_name: str, if_exists: str = "append
 
 # === MAIN FLOW ===
 @flow(name="mal-etl-mainflow", flow_run_name="mal-etl-run-{datetime}", log_prints=True)
-def mal_etl_mainflow(datetime: str = datetime.now(tz).strftime('%Y%m%d-%H%M%S')):
+def mal_etl_mainflow():
     ranking_types = ["all", "airing", "upcoming"]
     raw_data = extract_anime_data(ranking_types=ranking_types)
     df = transform_to_dataframe(raw_data)
     load_to_bigquery(df, table_name="mal_anime_ranking")
 
-# === SCRIPT ENTRYPOINT ===
 if __name__ == "__main__":
     mal_etl_mainflow()
