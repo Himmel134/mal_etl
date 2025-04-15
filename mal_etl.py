@@ -1,4 +1,3 @@
-# === mal_etl.py ===
 import os
 import pandas as pd
 import requests
@@ -9,13 +8,13 @@ from prefect_gcp import GcpCredentials
 import pandas_gbq
 
 # === ENVIRONMENT SETUP ===
-ACCESS_TOKEN = os.getenv("MAL_ACCESS_TOKEN")
+ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
 PROJECT_ID = os.getenv("PROJECT_ID")
 DATASET_ID = os.getenv("DATASET_ID")
 tz = ZoneInfo("Asia/Jakarta")
 
-# Load credentials
-CREDENTIALS = GcpCredentials.load("gcp-credentials").get_credentials_from_service_account()
+# Load GCP Credentials (from Prefect Block)
+CREDENTIALS = GcpCredentials.load("gcp-credentials").get_credentials_from_service_account_info()
 
 # === TASK DEFINITIONS ===
 @task(name="extract-anime-ranking", tags=["extract"], log_prints=True)
@@ -77,12 +76,12 @@ def load_to_bigquery(df: pd.DataFrame, table_name: str, if_exists: str = "append
 
 # === MAIN FLOW ===
 @flow(name="mal-etl-mainflow", flow_run_name="mal-etl-run-{datetime}", log_prints=True)
-def mal_etl_mainflow():
+def mal_etl_mainflow(datetime: str = datetime.now(tz).strftime('%Y%m%d-%H%M%S')):
     ranking_types = ["all", "airing", "upcoming"]
     raw_data = extract_anime_data(ranking_types=ranking_types)
     df = transform_to_dataframe(raw_data)
     load_to_bigquery(df, table_name="mal_anime_ranking")
 
-
+# === SCRIPT ENTRYPOINT ===
 if __name__ == "__main__":
     mal_etl_mainflow()
