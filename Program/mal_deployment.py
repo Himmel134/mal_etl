@@ -6,7 +6,7 @@ if __name__ == "__main__":
     github_repo = GitHubRepository.load("github-storage")
     flow.from_source(
         source=github_repo,
-        entrypoint="Program/mal_etl.py:mal_etl_mainflow",
+        entrypoint="mal_etl.py:mal_etl_mainflow",
     ).deploy(
         name="mal-etl-deployment",
         schedule=CronSchedule(cron="0 9 * * *", timezone="Asia/Jakarta"),
