@@ -85,6 +85,6 @@ pip install pandas matplotlib seaborn requests beautifulsoup4
 
 ## 8. Contact  
 
-**Nama**: Jawed Iqbal Alfaruqiy
+**Nama**: Jawed Iqbal Alfaruqiy <br>
 **Email**: jawediqbalalfaruqiy@gmail.com  
 **LinkedIn**: [linkedin.com/in/jawed-iqbal](https://www.linkedin.com/in/jawed-iqbal)
