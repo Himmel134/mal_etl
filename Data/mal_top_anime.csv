@@ -1,0 +1,666 @@
+id,title,mean,rank,popularity,num_list_users,num_scoring_users,status,start_date,end_date,num_episodes,genres,studios,ranking_type,ranking_date,start_year,score_bucket,genre
+52991,Sousou no Frieren,9.3,1,152,1090110,638750,finished_airing,2023-09-29,2024-03-22,28,"adventure, drama, fantasy, shounen",madhouse,all,2025-04-16,2023.0,9+,adventure
+52991,Sousou no Frieren,9.3,1,152,1090110,638750,finished_airing,2023-09-29,2024-03-22,28,"adventure, drama, fantasy, shounen",madhouse,all,2025-04-16,2023.0,9+,drama
+52991,Sousou no Frieren,9.3,1,152,1090110,638750,finished_airing,2023-09-29,2024-03-22,28,"adventure, drama, fantasy, shounen",madhouse,all,2025-04-16,2023.0,9+,fantasy
+52991,Sousou no Frieren,9.3,1,152,1090110,638750,finished_airing,2023-09-29,2024-03-22,28,"adventure, drama, fantasy, shounen",madhouse,all,2025-04-16,2023.0,9+,shounen
+5114,Fullmetal Alchemist: Brotherhood,9.1,2,3,3508232,2209390,finished_airing,2009-04-05,2010-07-04,64,"action, adventure, drama, fantasy, military, shounen",bones,all,2025-04-16,2009.0,9+,action
+5114,Fullmetal Alchemist: Brotherhood,9.1,2,3,3508232,2209390,finished_airing,2009-04-05,2010-07-04,64,"action, adventure, drama, fantasy, military, shounen",bones,all,2025-04-16,2009.0,9+,adventure
+5114,Fullmetal Alchemist: Brotherhood,9.1,2,3,3508232,2209390,finished_airing,2009-04-05,2010-07-04,64,"action, adventure, drama, fantasy, military, shounen",bones,all,2025-04-16,2009.0,9+,drama
+5114,Fullmetal Alchemist: Brotherhood,9.1,2,3,3508232,2209390,finished_airing,2009-04-05,2010-07-04,64,"action, adventure, drama, fantasy, military, shounen",bones,all,2025-04-16,2009.0,9+,fantasy
+5114,Fullmetal Alchemist: Brotherhood,9.1,2,3,3508232,2209390,finished_airing,2009-04-05,2010-07-04,64,"action, adventure, drama, fantasy, military, shounen",bones,all,2025-04-16,2009.0,9+,military
+5114,Fullmetal Alchemist: Brotherhood,9.1,2,3,3508232,2209390,finished_airing,2009-04-05,2010-07-04,64,"action, adventure, drama, fantasy, military, shounen",bones,all,2025-04-16,2009.0,9+,shounen
+9253,Steins;Gate,9.07,3,14,2687350,1458482,finished_airing,2011-04-06,2011-09-14,24,"drama, psychological, sci-fi, suspense, time travel",white fox,all,2025-04-16,2011.0,9+,drama
+9253,Steins;Gate,9.07,3,14,2687350,1458482,finished_airing,2011-04-06,2011-09-14,24,"drama, psychological, sci-fi, suspense, time travel",white fox,all,2025-04-16,2011.0,9+,psychological
+9253,Steins;Gate,9.07,3,14,2687350,1458482,finished_airing,2011-04-06,2011-09-14,24,"drama, psychological, sci-fi, suspense, time travel",white fox,all,2025-04-16,2011.0,9+,sci-fi
+9253,Steins;Gate,9.07,3,14,2687350,1458482,finished_airing,2011-04-06,2011-09-14,24,"drama, psychological, sci-fi, suspense, time travel",white fox,all,2025-04-16,2011.0,9+,suspense
+9253,Steins;Gate,9.07,3,14,2687350,1458482,finished_airing,2011-04-06,2011-09-14,24,"drama, psychological, sci-fi, suspense, time travel",white fox,all,2025-04-16,2011.0,9+,time travel
+38524,Shingeki no Kyojin Season 3 Part 2,9.05,4,21,2431852,1685447,finished_airing,2019-04-29,2019-07-01,10,"action, drama, gore, military, shounen, survival, suspense",wit studio,all,2025-04-16,2019.0,9+,action
+38524,Shingeki no Kyojin Season 3 Part 2,9.05,4,21,2431852,1685447,finished_airing,2019-04-29,2019-07-01,10,"action, drama, gore, military, shounen, survival, suspense",wit studio,all,2025-04-16,2019.0,9+,drama
+38524,Shingeki no Kyojin Season 3 Part 2,9.05,4,21,2431852,1685447,finished_airing,2019-04-29,2019-07-01,10,"action, drama, gore, military, shounen, survival, suspense",wit studio,all,2025-04-16,2019.0,9+,gore
+38524,Shingeki no Kyojin Season 3 Part 2,9.05,4,21,2431852,1685447,finished_airing,2019-04-29,2019-07-01,10,"action, drama, gore, military, shounen, survival, suspense",wit studio,all,2025-04-16,2019.0,9+,military
+38524,Shingeki no Kyojin Season 3 Part 2,9.05,4,21,2431852,1685447,finished_airing,2019-04-29,2019-07-01,10,"action, drama, gore, military, shounen, survival, suspense",wit studio,all,2025-04-16,2019.0,9+,shounen
+38524,Shingeki no Kyojin Season 3 Part 2,9.05,4,21,2431852,1685447,finished_airing,2019-04-29,2019-07-01,10,"action, drama, gore, military, shounen, survival, suspense",wit studio,all,2025-04-16,2019.0,9+,survival
+38524,Shingeki no Kyojin Season 3 Part 2,9.05,4,21,2431852,1685447,finished_airing,2019-04-29,2019-07-01,10,"action, drama, gore, military, shounen, survival, suspense",wit studio,all,2025-04-16,2019.0,9+,suspense
+60022,One Piece Fan Letter,9.05,5,2174,104341,77005,finished_airing,2024-10-20,2024-10-20,1,"action, adventure, fantasy, shounen",toei animation,all,2025-04-16,2024.0,9+,action
+60022,One Piece Fan Letter,9.05,5,2174,104341,77005,finished_airing,2024-10-20,2024-10-20,1,"action, adventure, fantasy, shounen",toei animation,all,2025-04-16,2024.0,9+,adventure
+60022,One Piece Fan Letter,9.05,5,2174,104341,77005,finished_airing,2024-10-20,2024-10-20,1,"action, adventure, fantasy, shounen",toei animation,all,2025-04-16,2024.0,9+,fantasy
+60022,One Piece Fan Letter,9.05,5,2174,104341,77005,finished_airing,2024-10-20,2024-10-20,1,"action, adventure, fantasy, shounen",toei animation,all,2025-04-16,2024.0,9+,shounen
+28977,Gintama°,9.05,6,344,663557,262500,finished_airing,2015-04-08,2016-03-30,51,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2015.0,9+,action
+28977,Gintama°,9.05,6,344,663557,262500,finished_airing,2015-04-08,2016-03-30,51,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2015.0,9+,comedy
+28977,Gintama°,9.05,6,344,663557,262500,finished_airing,2015-04-08,2016-03-30,51,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2015.0,9+,gag humor
+28977,Gintama°,9.05,6,344,663557,262500,finished_airing,2015-04-08,2016-03-30,51,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2015.0,9+,historical
+28977,Gintama°,9.05,6,344,663557,262500,finished_airing,2015-04-08,2016-03-30,51,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2015.0,9+,parody
+28977,Gintama°,9.05,6,344,663557,262500,finished_airing,2015-04-08,2016-03-30,51,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2015.0,9+,samurai
+28977,Gintama°,9.05,6,344,663557,262500,finished_airing,2015-04-08,2016-03-30,51,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2015.0,9+,sci-fi
+28977,Gintama°,9.05,6,344,663557,262500,finished_airing,2015-04-08,2016-03-30,51,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2015.0,9+,shounen
+39486,Gintama: The Final,9.04,7,1528,167882,79546,finished_airing,2021-01-08,2021-01-08,1,"action, comedy, drama, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2021.0,9+,action
+39486,Gintama: The Final,9.04,7,1528,167882,79546,finished_airing,2021-01-08,2021-01-08,1,"action, comedy, drama, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2021.0,9+,comedy
+39486,Gintama: The Final,9.04,7,1528,167882,79546,finished_airing,2021-01-08,2021-01-08,1,"action, comedy, drama, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2021.0,9+,drama
+39486,Gintama: The Final,9.04,7,1528,167882,79546,finished_airing,2021-01-08,2021-01-08,1,"action, comedy, drama, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2021.0,9+,gag humor
+39486,Gintama: The Final,9.04,7,1528,167882,79546,finished_airing,2021-01-08,2021-01-08,1,"action, comedy, drama, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2021.0,9+,historical
+39486,Gintama: The Final,9.04,7,1528,167882,79546,finished_airing,2021-01-08,2021-01-08,1,"action, comedy, drama, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2021.0,9+,parody
+39486,Gintama: The Final,9.04,7,1528,167882,79546,finished_airing,2021-01-08,2021-01-08,1,"action, comedy, drama, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2021.0,9+,samurai
+39486,Gintama: The Final,9.04,7,1528,167882,79546,finished_airing,2021-01-08,2021-01-08,1,"action, comedy, drama, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2021.0,9+,sci-fi
+39486,Gintama: The Final,9.04,7,1528,167882,79546,finished_airing,2021-01-08,2021-01-08,1,"action, comedy, drama, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2021.0,9+,shounen
+11061,Hunter x Hunter (2011),9.03,8,8,3007485,1867064,finished_airing,2011-10-02,2014-09-24,148,"action, adventure, fantasy, shounen",madhouse,all,2025-04-16,2011.0,9+,action
+11061,Hunter x Hunter (2011),9.03,8,8,3007485,1867064,finished_airing,2011-10-02,2014-09-24,148,"action, adventure, fantasy, shounen",madhouse,all,2025-04-16,2011.0,9+,adventure
+11061,Hunter x Hunter (2011),9.03,8,8,3007485,1867064,finished_airing,2011-10-02,2014-09-24,148,"action, adventure, fantasy, shounen",madhouse,all,2025-04-16,2011.0,9+,fantasy
+11061,Hunter x Hunter (2011),9.03,8,8,3007485,1867064,finished_airing,2011-10-02,2014-09-24,148,"action, adventure, fantasy, shounen",madhouse,all,2025-04-16,2011.0,9+,shounen
+9969,Gintama',9.02,9,400,586831,247745,finished_airing,2011-04-04,2012-03-26,51,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2011.0,9+,action
+9969,Gintama',9.02,9,400,586831,247745,finished_airing,2011-04-04,2012-03-26,51,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2011.0,9+,comedy
+9969,Gintama',9.02,9,400,586831,247745,finished_airing,2011-04-04,2012-03-26,51,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2011.0,9+,gag humor
+9969,Gintama',9.02,9,400,586831,247745,finished_airing,2011-04-04,2012-03-26,51,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2011.0,9+,historical
+9969,Gintama',9.02,9,400,586831,247745,finished_airing,2011-04-04,2012-03-26,51,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2011.0,9+,parody
+9969,Gintama',9.02,9,400,586831,247745,finished_airing,2011-04-04,2012-03-26,51,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2011.0,9+,samurai
+9969,Gintama',9.02,9,400,586831,247745,finished_airing,2011-04-04,2012-03-26,51,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2011.0,9+,sci-fi
+9969,Gintama',9.02,9,400,586831,247745,finished_airing,2011-04-04,2012-03-26,51,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2011.0,9+,shounen
+15417,Gintama': Enchousen,9.02,10,752,342880,172697,finished_airing,2012-10-04,2013-03-28,13,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2012.0,9+,action
+15417,Gintama': Enchousen,9.02,10,752,342880,172697,finished_airing,2012-10-04,2013-03-28,13,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2012.0,9+,comedy
+15417,Gintama': Enchousen,9.02,10,752,342880,172697,finished_airing,2012-10-04,2013-03-28,13,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2012.0,9+,gag humor
+15417,Gintama': Enchousen,9.02,10,752,342880,172697,finished_airing,2012-10-04,2013-03-28,13,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2012.0,9+,historical
+15417,Gintama': Enchousen,9.02,10,752,342880,172697,finished_airing,2012-10-04,2013-03-28,13,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2012.0,9+,parody
+15417,Gintama': Enchousen,9.02,10,752,342880,172697,finished_airing,2012-10-04,2013-03-28,13,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2012.0,9+,samurai
+15417,Gintama': Enchousen,9.02,10,752,342880,172697,finished_airing,2012-10-04,2013-03-28,13,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2012.0,9+,sci-fi
+15417,Gintama': Enchousen,9.02,10,752,342880,172697,finished_airing,2012-10-04,2013-03-28,13,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2012.0,9+,shounen
+820,Ginga Eiyuu Densetsu,9.01,11,754,342326,83536,finished_airing,1988-01-08,1997-03-17,110,"adult cast, drama, military, sci-fi, space","k-factory, kitty film mitaka studio",all,2025-04-16,1988.0,9+,adult cast
+820,Ginga Eiyuu Densetsu,9.01,11,754,342326,83536,finished_airing,1988-01-08,1997-03-17,110,"adult cast, drama, military, sci-fi, space","k-factory, kitty film mitaka studio",all,2025-04-16,1988.0,9+,drama
+820,Ginga Eiyuu Densetsu,9.01,11,754,342326,83536,finished_airing,1988-01-08,1997-03-17,110,"adult cast, drama, military, sci-fi, space","k-factory, kitty film mitaka studio",all,2025-04-16,1988.0,9+,military
+820,Ginga Eiyuu Densetsu,9.01,11,754,342326,83536,finished_airing,1988-01-08,1997-03-17,110,"adult cast, drama, military, sci-fi, space","k-factory, kitty film mitaka studio",all,2025-04-16,1988.0,9+,sci-fi
+820,Ginga Eiyuu Densetsu,9.01,11,754,342326,83536,finished_airing,1988-01-08,1997-03-17,110,"adult cast, drama, military, sci-fi, space","k-factory, kitty film mitaka studio",all,2025-04-16,1988.0,9+,space
+41467,Bleach: Sennen Kessen-hen,9.0,12,369,629332,333682,finished_airing,2022-10-11,2022-12-27,13,"action, adventure, shounen, supernatural",pierrot,all,2025-04-16,2022.0,8-8.9,action
+41467,Bleach: Sennen Kessen-hen,9.0,12,369,629332,333682,finished_airing,2022-10-11,2022-12-27,13,"action, adventure, shounen, supernatural",pierrot,all,2025-04-16,2022.0,8-8.9,adventure
+41467,Bleach: Sennen Kessen-hen,9.0,12,369,629332,333682,finished_airing,2022-10-11,2022-12-27,13,"action, adventure, shounen, supernatural",pierrot,all,2025-04-16,2022.0,8-8.9,shounen
+41467,Bleach: Sennen Kessen-hen,9.0,12,369,629332,333682,finished_airing,2022-10-11,2022-12-27,13,"action, adventure, shounen, supernatural",pierrot,all,2025-04-16,2022.0,8-8.9,supernatural
+34096,Gintama.,8.98,13,782,332891,153289,finished_airing,2017-01-09,2017-03-27,12,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2017.0,8-8.9,action
+34096,Gintama.,8.98,13,782,332891,153289,finished_airing,2017-01-09,2017-03-27,12,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2017.0,8-8.9,comedy
+34096,Gintama.,8.98,13,782,332891,153289,finished_airing,2017-01-09,2017-03-27,12,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2017.0,8-8.9,gag humor
+34096,Gintama.,8.98,13,782,332891,153289,finished_airing,2017-01-09,2017-03-27,12,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2017.0,8-8.9,historical
+34096,Gintama.,8.98,13,782,332891,153289,finished_airing,2017-01-09,2017-03-27,12,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2017.0,8-8.9,parody
+34096,Gintama.,8.98,13,782,332891,153289,finished_airing,2017-01-09,2017-03-27,12,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2017.0,8-8.9,samurai
+34096,Gintama.,8.98,13,782,332891,153289,finished_airing,2017-01-09,2017-03-27,12,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2017.0,8-8.9,sci-fi
+34096,Gintama.,8.98,13,782,332891,153289,finished_airing,2017-01-09,2017-03-27,12,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2017.0,8-8.9,shounen
+43608,Kaguya-sama wa Kokurasetai: Ultra Romantic,8.98,14,167,1022705,579734,finished_airing,2022-04-09,2022-06-25,13,"comedy, romance, school, seinen",a-1 pictures,all,2025-04-16,2022.0,8-8.9,comedy
+43608,Kaguya-sama wa Kokurasetai: Ultra Romantic,8.98,14,167,1022705,579734,finished_airing,2022-04-09,2022-06-25,13,"comedy, romance, school, seinen",a-1 pictures,all,2025-04-16,2022.0,8-8.9,romance
+43608,Kaguya-sama wa Kokurasetai: Ultra Romantic,8.98,14,167,1022705,579734,finished_airing,2022-04-09,2022-06-25,13,"comedy, romance, school, seinen",a-1 pictures,all,2025-04-16,2022.0,8-8.9,school
+43608,Kaguya-sama wa Kokurasetai: Ultra Romantic,8.98,14,167,1022705,579734,finished_airing,2022-04-09,2022-06-25,13,"comedy, romance, school, seinen",a-1 pictures,all,2025-04-16,2022.0,8-8.9,seinen
+42938,Fruits Basket: The Final,8.95,15,458,523348,259441,finished_airing,2021-04-06,2021-06-29,13,"drama, romance, shoujo, supernatural",tms entertainment,all,2025-04-16,2021.0,8-8.9,drama
+42938,Fruits Basket: The Final,8.95,15,458,523348,259441,finished_airing,2021-04-06,2021-06-29,13,"drama, romance, shoujo, supernatural",tms entertainment,all,2025-04-16,2021.0,8-8.9,romance
+42938,Fruits Basket: The Final,8.95,15,458,523348,259441,finished_airing,2021-04-06,2021-06-29,13,"drama, romance, shoujo, supernatural",tms entertainment,all,2025-04-16,2021.0,8-8.9,shoujo
+42938,Fruits Basket: The Final,8.95,15,458,523348,259441,finished_airing,2021-04-06,2021-06-29,13,"drama, romance, shoujo, supernatural",tms entertainment,all,2025-04-16,2021.0,8-8.9,supernatural
+4181,Clannad: After Story,8.93,16,120,1239580,679482,finished_airing,2008-10-03,2009-03-27,24,"drama, romance",kyoto animation,all,2025-04-16,2008.0,8-8.9,drama
+4181,Clannad: After Story,8.93,16,120,1239580,679482,finished_airing,2008-10-03,2009-03-27,24,"drama, romance",kyoto animation,all,2025-04-16,2008.0,8-8.9,romance
+918,Gintama,8.93,17,145,1111896,410341,finished_airing,2006-04-04,2010-03-25,201,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2006.0,8-8.9,action
+918,Gintama,8.93,17,145,1111896,410341,finished_airing,2006-04-04,2010-03-25,201,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2006.0,8-8.9,comedy
+918,Gintama,8.93,17,145,1111896,410341,finished_airing,2006-04-04,2010-03-25,201,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2006.0,8-8.9,gag humor
+918,Gintama,8.93,17,145,1111896,410341,finished_airing,2006-04-04,2010-03-25,201,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2006.0,8-8.9,historical
+918,Gintama,8.93,17,145,1111896,410341,finished_airing,2006-04-04,2010-03-25,201,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2006.0,8-8.9,parody
+918,Gintama,8.93,17,145,1111896,410341,finished_airing,2006-04-04,2010-03-25,201,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2006.0,8-8.9,samurai
+918,Gintama,8.93,17,145,1111896,410341,finished_airing,2006-04-04,2010-03-25,201,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2006.0,8-8.9,sci-fi
+918,Gintama,8.93,17,145,1111896,410341,finished_airing,2006-04-04,2010-03-25,201,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",sunrise,all,2025-04-16,2006.0,8-8.9,shounen
+28851,Koe no Katachi,8.93,18,20,2467291,1700879,finished_airing,2016-09-17,2016-09-17,1,"award winning, drama, shounen",kyoto animation,all,2025-04-16,2016.0,8-8.9,award winning
+28851,Koe no Katachi,8.93,18,20,2467291,1700879,finished_airing,2016-09-17,2016-09-17,1,"award winning, drama, shounen",kyoto animation,all,2025-04-16,2016.0,8-8.9,drama
+28851,Koe no Katachi,8.93,18,20,2467291,1700879,finished_airing,2016-09-17,2016-09-17,1,"award winning, drama, shounen",kyoto animation,all,2025-04-16,2016.0,8-8.9,shounen
+35180,3-gatsu no Lion 2nd Season,8.91,19,589,421963,207768,finished_airing,2017-10-14,2018-03-31,22,"childcare, drama, seinen, strategy game",shaft,all,2025-04-16,2017.0,8-8.9,childcare
+35180,3-gatsu no Lion 2nd Season,8.91,19,589,421963,207768,finished_airing,2017-10-14,2018-03-31,22,"childcare, drama, seinen, strategy game",shaft,all,2025-04-16,2017.0,8-8.9,drama
+35180,3-gatsu no Lion 2nd Season,8.91,19,589,421963,207768,finished_airing,2017-10-14,2018-03-31,22,"childcare, drama, seinen, strategy game",shaft,all,2025-04-16,2017.0,8-8.9,seinen
+35180,3-gatsu no Lion 2nd Season,8.91,19,589,421963,207768,finished_airing,2017-10-14,2018-03-31,22,"childcare, drama, seinen, strategy game",shaft,all,2025-04-16,2017.0,8-8.9,strategy game
+2904,Code Geass: Hangyaku no Lelouch R2,8.91,20,47,1865088,1243309,finished_airing,2008-04-06,2008-09-28,25,"action, award winning, drama, mecha, military, sci-fi, super power",sunrise,all,2025-04-16,2008.0,8-8.9,action
+2904,Code Geass: Hangyaku no Lelouch R2,8.91,20,47,1865088,1243309,finished_airing,2008-04-06,2008-09-28,25,"action, award winning, drama, mecha, military, sci-fi, super power",sunrise,all,2025-04-16,2008.0,8-8.9,award winning
+2904,Code Geass: Hangyaku no Lelouch R2,8.91,20,47,1865088,1243309,finished_airing,2008-04-06,2008-09-28,25,"action, award winning, drama, mecha, military, sci-fi, super power",sunrise,all,2025-04-16,2008.0,8-8.9,drama
+2904,Code Geass: Hangyaku no Lelouch R2,8.91,20,47,1865088,1243309,finished_airing,2008-04-06,2008-09-28,25,"action, award winning, drama, mecha, military, sci-fi, super power",sunrise,all,2025-04-16,2008.0,8-8.9,mecha
+2904,Code Geass: Hangyaku no Lelouch R2,8.91,20,47,1865088,1243309,finished_airing,2008-04-06,2008-09-28,25,"action, award winning, drama, mecha, military, sci-fi, super power",sunrise,all,2025-04-16,2008.0,8-8.9,military
+2904,Code Geass: Hangyaku no Lelouch R2,8.91,20,47,1865088,1243309,finished_airing,2008-04-06,2008-09-28,25,"action, award winning, drama, mecha, military, sci-fi, super power",sunrise,all,2025-04-16,2008.0,8-8.9,sci-fi
+2904,Code Geass: Hangyaku no Lelouch R2,8.91,20,47,1865088,1243309,finished_airing,2008-04-06,2008-09-28,25,"action, award winning, drama, mecha, military, sci-fi, super power",sunrise,all,2025-04-16,2008.0,8-8.9,super power
+15335,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,8.9,21,1035,252523,140345,finished_airing,2013-07-06,2013-07-06,1,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen, time travel",sunrise,all,2025-04-16,2013.0,8-8.9,action
+15335,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,8.9,21,1035,252523,140345,finished_airing,2013-07-06,2013-07-06,1,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen, time travel",sunrise,all,2025-04-16,2013.0,8-8.9,comedy
+15335,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,8.9,21,1035,252523,140345,finished_airing,2013-07-06,2013-07-06,1,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen, time travel",sunrise,all,2025-04-16,2013.0,8-8.9,gag humor
+15335,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,8.9,21,1035,252523,140345,finished_airing,2013-07-06,2013-07-06,1,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen, time travel",sunrise,all,2025-04-16,2013.0,8-8.9,historical
+15335,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,8.9,21,1035,252523,140345,finished_airing,2013-07-06,2013-07-06,1,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen, time travel",sunrise,all,2025-04-16,2013.0,8-8.9,parody
+15335,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,8.9,21,1035,252523,140345,finished_airing,2013-07-06,2013-07-06,1,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen, time travel",sunrise,all,2025-04-16,2013.0,8-8.9,samurai
+15335,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,8.9,21,1035,252523,140345,finished_airing,2013-07-06,2013-07-06,1,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen, time travel",sunrise,all,2025-04-16,2013.0,8-8.9,sci-fi
+15335,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,8.9,21,1035,252523,140345,finished_airing,2013-07-06,2013-07-06,1,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen, time travel",sunrise,all,2025-04-16,2013.0,8-8.9,shounen
+15335,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,8.9,21,1035,252523,140345,finished_airing,2013-07-06,2013-07-06,1,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen, time travel",sunrise,all,2025-04-16,2013.0,8-8.9,time travel
+37491,Gintama. Shirogane no Tamashii-hen - Kouhan-sen,8.88,22,1223,213681,101708,finished_airing,2018-07-09,2018-10-08,14,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2018.0,8-8.9,action
+37491,Gintama. Shirogane no Tamashii-hen - Kouhan-sen,8.88,22,1223,213681,101708,finished_airing,2018-07-09,2018-10-08,14,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2018.0,8-8.9,comedy
+37491,Gintama. Shirogane no Tamashii-hen - Kouhan-sen,8.88,22,1223,213681,101708,finished_airing,2018-07-09,2018-10-08,14,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2018.0,8-8.9,gag humor
+37491,Gintama. Shirogane no Tamashii-hen - Kouhan-sen,8.88,22,1223,213681,101708,finished_airing,2018-07-09,2018-10-08,14,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2018.0,8-8.9,historical
+37491,Gintama. Shirogane no Tamashii-hen - Kouhan-sen,8.88,22,1223,213681,101708,finished_airing,2018-07-09,2018-10-08,14,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2018.0,8-8.9,parody
+37491,Gintama. Shirogane no Tamashii-hen - Kouhan-sen,8.88,22,1223,213681,101708,finished_airing,2018-07-09,2018-10-08,14,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2018.0,8-8.9,samurai
+37491,Gintama. Shirogane no Tamashii-hen - Kouhan-sen,8.88,22,1223,213681,101708,finished_airing,2018-07-09,2018-10-08,14,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2018.0,8-8.9,sci-fi
+37491,Gintama. Shirogane no Tamashii-hen - Kouhan-sen,8.88,22,1223,213681,101708,finished_airing,2018-07-09,2018-10-08,14,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2018.0,8-8.9,shounen
+19,Monster,8.88,23,123,1223522,464236,finished_airing,2004-04-07,2005-09-28,74,"adult cast, drama, mystery, psychological, seinen, suspense",madhouse,all,2025-04-16,2004.0,8-8.9,adult cast
+19,Monster,8.88,23,123,1223522,464236,finished_airing,2004-04-07,2005-09-28,74,"adult cast, drama, mystery, psychological, seinen, suspense",madhouse,all,2025-04-16,2004.0,8-8.9,drama
+19,Monster,8.88,23,123,1223522,464236,finished_airing,2004-04-07,2005-09-28,74,"adult cast, drama, mystery, psychological, seinen, suspense",madhouse,all,2025-04-16,2004.0,8-8.9,mystery
+19,Monster,8.88,23,123,1223522,464236,finished_airing,2004-04-07,2005-09-28,74,"adult cast, drama, mystery, psychological, seinen, suspense",madhouse,all,2025-04-16,2004.0,8-8.9,psychological
+19,Monster,8.88,23,123,1223522,464236,finished_airing,2004-04-07,2005-09-28,74,"adult cast, drama, mystery, psychological, seinen, suspense",madhouse,all,2025-04-16,2004.0,8-8.9,seinen
+19,Monster,8.88,23,123,1223522,464236,finished_airing,2004-04-07,2005-09-28,74,"adult cast, drama, mystery, psychological, seinen, suspense",madhouse,all,2025-04-16,2004.0,8-8.9,suspense
+54492,Kusuriya no Hitorigoto,8.87,24,386,607276,321234,finished_airing,2023-10-22,2024-03-24,24,"drama, historical, medical, mystery","olm, toho animation studio",all,2025-04-16,2023.0,8-8.9,drama
+54492,Kusuriya no Hitorigoto,8.87,24,386,607276,321234,finished_airing,2023-10-22,2024-03-24,24,"drama, historical, medical, mystery","olm, toho animation studio",all,2025-04-16,2023.0,8-8.9,historical
+54492,Kusuriya no Hitorigoto,8.87,24,386,607276,321234,finished_airing,2023-10-22,2024-03-24,24,"drama, historical, medical, mystery","olm, toho animation studio",all,2025-04-16,2023.0,8-8.9,medical
+54492,Kusuriya no Hitorigoto,8.87,24,386,607276,321234,finished_airing,2023-10-22,2024-03-24,24,"drama, historical, medical, mystery","olm, toho animation studio",all,2025-04-16,2023.0,8-8.9,mystery
+51535,Shingeki no Kyojin: The Final Season - Kanketsu-hen,8.87,25,284,759969,454402,finished_airing,2023-03-04,2023-11-05,2,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2023.0,8-8.9,action
+51535,Shingeki no Kyojin: The Final Season - Kanketsu-hen,8.87,25,284,759969,454402,finished_airing,2023-03-04,2023-11-05,2,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2023.0,8-8.9,drama
+51535,Shingeki no Kyojin: The Final Season - Kanketsu-hen,8.87,25,284,759969,454402,finished_airing,2023-03-04,2023-11-05,2,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2023.0,8-8.9,gore
+51535,Shingeki no Kyojin: The Final Season - Kanketsu-hen,8.87,25,284,759969,454402,finished_airing,2023-03-04,2023-11-05,2,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2023.0,8-8.9,military
+51535,Shingeki no Kyojin: The Final Season - Kanketsu-hen,8.87,25,284,759969,454402,finished_airing,2023-03-04,2023-11-05,2,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2023.0,8-8.9,shounen
+51535,Shingeki no Kyojin: The Final Season - Kanketsu-hen,8.87,25,284,759969,454402,finished_airing,2023-03-04,2023-11-05,2,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2023.0,8-8.9,survival
+51535,Shingeki no Kyojin: The Final Season - Kanketsu-hen,8.87,25,284,759969,454402,finished_airing,2023-03-04,2023-11-05,2,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2023.0,8-8.9,suspense
+35247,Owarimonogatari 2nd Season,8.86,26,591,420069,202294,finished_airing,2017-08-12,2017-08-13,7,"comedy, mystery, supernatural, vampire",shaft,all,2025-04-16,2017.0,8-8.9,comedy
+35247,Owarimonogatari 2nd Season,8.86,26,591,420069,202294,finished_airing,2017-08-12,2017-08-13,7,"comedy, mystery, supernatural, vampire",shaft,all,2025-04-16,2017.0,8-8.9,mystery
+35247,Owarimonogatari 2nd Season,8.86,26,591,420069,202294,finished_airing,2017-08-12,2017-08-13,7,"comedy, mystery, supernatural, vampire",shaft,all,2025-04-16,2017.0,8-8.9,supernatural
+35247,Owarimonogatari 2nd Season,8.86,26,591,420069,202294,finished_airing,2017-08-12,2017-08-13,7,"comedy, mystery, supernatural, vampire",shaft,all,2025-04-16,2017.0,8-8.9,vampire
+37987,Violet Evergarden Movie,8.85,27,338,670355,307891,finished_airing,2020-09-18,2020-09-18,1,"award winning, drama",kyoto animation,all,2025-04-16,2020.0,8-8.9,award winning
+37987,Violet Evergarden Movie,8.85,27,338,670355,307891,finished_airing,2020-09-18,2020-09-18,1,"award winning, drama",kyoto animation,all,2025-04-16,2020.0,8-8.9,drama
+59571,Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack,8.83,28,3757,41253,10578,finished_airing,2024-11-08,2024-11-08,1,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2024.0,8-8.9,action
+59571,Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack,8.83,28,3757,41253,10578,finished_airing,2024-11-08,2024-11-08,1,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2024.0,8-8.9,drama
+59571,Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack,8.83,28,3757,41253,10578,finished_airing,2024-11-08,2024-11-08,1,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2024.0,8-8.9,gore
+59571,Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack,8.83,28,3757,41253,10578,finished_airing,2024-11-08,2024-11-08,1,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2024.0,8-8.9,military
+59571,Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack,8.83,28,3757,41253,10578,finished_airing,2024-11-08,2024-11-08,1,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2024.0,8-8.9,shounen
+59571,Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack,8.83,28,3757,41253,10578,finished_airing,2024-11-08,2024-11-08,1,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2024.0,8-8.9,survival
+59571,Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack,8.83,28,3757,41253,10578,finished_airing,2024-11-08,2024-11-08,1,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2024.0,8-8.9,suspense
+32281,Kimi no Na wa.,8.83,29,11,2884903,1990552,finished_airing,2016-08-26,2016-08-26,1,"award winning, drama",comix wave films,all,2025-04-16,2016.0,8-8.9,award winning
+32281,Kimi no Na wa.,8.83,29,11,2884903,1990552,finished_airing,2016-08-26,2016-08-26,1,"award winning, drama",comix wave films,all,2025-04-16,2016.0,8-8.9,drama
+40682,Kingdom 3rd Season,8.83,30,1998,118495,47122,finished_airing,2020-04-06,2021-10-17,26,"action, historical, military, seinen","pierrot, studio signpost",all,2025-04-16,2020.0,8-8.9,action
+40682,Kingdom 3rd Season,8.83,30,1998,118495,47122,finished_airing,2020-04-06,2021-10-17,26,"action, historical, military, seinen","pierrot, studio signpost",all,2025-04-16,2020.0,8-8.9,historical
+40682,Kingdom 3rd Season,8.83,30,1998,118495,47122,finished_airing,2020-04-06,2021-10-17,26,"action, historical, military, seinen","pierrot, studio signpost",all,2025-04-16,2020.0,8-8.9,military
+40682,Kingdom 3rd Season,8.83,30,1998,118495,47122,finished_airing,2020-04-06,2021-10-17,26,"action, historical, military, seinen","pierrot, studio signpost",all,2025-04-16,2020.0,8-8.9,seinen
+58514,Kusuriya no Hitorigoto 2nd Season,8.82,31,976,268427,48893,currently_airing,2025-01-10,,24,"drama, historical, medical, mystery","olm, toho animation studio",all,2025-04-16,2025.0,8-8.9,drama
+58514,Kusuriya no Hitorigoto 2nd Season,8.82,31,976,268427,48893,currently_airing,2025-01-10,,24,"drama, historical, medical, mystery","olm, toho animation studio",all,2025-04-16,2025.0,8-8.9,historical
+58514,Kusuriya no Hitorigoto 2nd Season,8.82,31,976,268427,48893,currently_airing,2025-01-10,,24,"drama, historical, medical, mystery","olm, toho animation studio",all,2025-04-16,2025.0,8-8.9,medical
+58514,Kusuriya no Hitorigoto 2nd Season,8.82,31,976,268427,48893,currently_airing,2025-01-10,,24,"drama, historical, medical, mystery","olm, toho animation studio",all,2025-04-16,2025.0,8-8.9,mystery
+49387,Vinland Saga Season 2,8.81,32,292,735459,401267,finished_airing,2023-01-10,2023-06-20,24,"action, adventure, drama, gore, historical, seinen",mappa,all,2025-04-16,2023.0,8-8.9,action
+49387,Vinland Saga Season 2,8.81,32,292,735459,401267,finished_airing,2023-01-10,2023-06-20,24,"action, adventure, drama, gore, historical, seinen",mappa,all,2025-04-16,2023.0,8-8.9,adventure
+49387,Vinland Saga Season 2,8.81,32,292,735459,401267,finished_airing,2023-01-10,2023-06-20,24,"action, adventure, drama, gore, historical, seinen",mappa,all,2025-04-16,2023.0,8-8.9,drama
+49387,Vinland Saga Season 2,8.81,32,292,735459,401267,finished_airing,2023-01-10,2023-06-20,24,"action, adventure, drama, gore, historical, seinen",mappa,all,2025-04-16,2023.0,8-8.9,gore
+49387,Vinland Saga Season 2,8.81,32,292,735459,401267,finished_airing,2023-01-10,2023-06-20,24,"action, adventure, drama, gore, historical, seinen",mappa,all,2025-04-16,2023.0,8-8.9,historical
+49387,Vinland Saga Season 2,8.81,32,292,735459,401267,finished_airing,2023-01-10,2023-06-20,24,"action, adventure, drama, gore, historical, seinen",mappa,all,2025-04-16,2023.0,8-8.9,seinen
+36838,Gintama. Shirogane no Tamashii-hen,8.81,33,1164,226598,110485,finished_airing,2018-01-08,2018-03-26,12,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2018.0,8-8.9,action
+36838,Gintama. Shirogane no Tamashii-hen,8.81,33,1164,226598,110485,finished_airing,2018-01-08,2018-03-26,12,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2018.0,8-8.9,comedy
+36838,Gintama. Shirogane no Tamashii-hen,8.81,33,1164,226598,110485,finished_airing,2018-01-08,2018-03-26,12,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2018.0,8-8.9,gag humor
+36838,Gintama. Shirogane no Tamashii-hen,8.81,33,1164,226598,110485,finished_airing,2018-01-08,2018-03-26,12,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2018.0,8-8.9,historical
+36838,Gintama. Shirogane no Tamashii-hen,8.81,33,1164,226598,110485,finished_airing,2018-01-08,2018-03-26,12,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2018.0,8-8.9,parody
+36838,Gintama. Shirogane no Tamashii-hen,8.81,33,1164,226598,110485,finished_airing,2018-01-08,2018-03-26,12,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2018.0,8-8.9,samurai
+36838,Gintama. Shirogane no Tamashii-hen,8.81,33,1164,226598,110485,finished_airing,2018-01-08,2018-03-26,12,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2018.0,8-8.9,sci-fi
+36838,Gintama. Shirogane no Tamashii-hen,8.81,33,1164,226598,110485,finished_airing,2018-01-08,2018-03-26,12,"action, comedy, gag humor, historical, parody, samurai, sci-fi, shounen",bandai namco pictures,all,2025-04-16,2018.0,8-8.9,shounen
+263,Hajime no Ippo,8.78,34,359,645340,318233,finished_airing,2000-10-04,2002-03-27,75,"combat sports, shounen, sports",madhouse,all,2025-04-16,2000.0,8-8.9,combat sports
+263,Hajime no Ippo,8.78,34,359,645340,318233,finished_airing,2000-10-04,2002-03-27,75,"combat sports, shounen, sports",madhouse,all,2025-04-16,2000.0,8-8.9,shounen
+263,Hajime no Ippo,8.78,34,359,645340,318233,finished_airing,2000-10-04,2002-03-27,75,"combat sports, shounen, sports",madhouse,all,2025-04-16,2000.0,8-8.9,sports
+31758,Kizumonogatari III: Reiketsu-hen,8.78,35,494,489517,284756,finished_airing,2017-01-06,2017-01-06,1,"action, mystery, supernatural, vampire",shaft,all,2025-04-16,2017.0,8-8.9,action
+31758,Kizumonogatari III: Reiketsu-hen,8.78,35,494,489517,284756,finished_airing,2017-01-06,2017-01-06,1,"action, mystery, supernatural, vampire",shaft,all,2025-04-16,2017.0,8-8.9,mystery
+31758,Kizumonogatari III: Reiketsu-hen,8.78,35,494,489517,284756,finished_airing,2017-01-06,2017-01-06,1,"action, mystery, supernatural, vampire",shaft,all,2025-04-16,2017.0,8-8.9,supernatural
+31758,Kizumonogatari III: Reiketsu-hen,8.78,35,494,489517,284756,finished_airing,2017-01-06,2017-01-06,1,"action, mystery, supernatural, vampire",shaft,all,2025-04-16,2017.0,8-8.9,vampire
+37510,Mob Psycho 100 II,8.78,36,73,1632000,1028752,finished_airing,2019-01-07,2019-04-01,13,"action, comedy, supernatural",bones,all,2025-04-16,2019.0,8-8.9,action
+37510,Mob Psycho 100 II,8.78,36,73,1632000,1028752,finished_airing,2019-01-07,2019-04-01,13,"action, comedy, supernatural",bones,all,2025-04-16,2019.0,8-8.9,comedy
+37510,Mob Psycho 100 II,8.78,36,73,1632000,1028752,finished_airing,2019-01-07,2019-04-01,13,"action, comedy, supernatural",bones,all,2025-04-16,2019.0,8-8.9,supernatural
+58567,Ore dake Level Up na Ken Season 2: Arise from the Shadow,8.78,37,441,538000,292404,finished_airing,2025-01-05,2025-03-30,13,"action, adult cast, adventure, fantasy, urban fantasy",a-1 pictures,all,2025-04-16,2025.0,8-8.9,action
+58567,Ore dake Level Up na Ken Season 2: Arise from the Shadow,8.78,37,441,538000,292404,finished_airing,2025-01-05,2025-03-30,13,"action, adult cast, adventure, fantasy, urban fantasy",a-1 pictures,all,2025-04-16,2025.0,8-8.9,adult cast
+58567,Ore dake Level Up na Ken Season 2: Arise from the Shadow,8.78,37,441,538000,292404,finished_airing,2025-01-05,2025-03-30,13,"action, adult cast, adventure, fantasy, urban fantasy",a-1 pictures,all,2025-04-16,2025.0,8-8.9,adventure
+58567,Ore dake Level Up na Ken Season 2: Arise from the Shadow,8.78,37,441,538000,292404,finished_airing,2025-01-05,2025-03-30,13,"action, adult cast, adventure, fantasy, urban fantasy",a-1 pictures,all,2025-04-16,2025.0,8-8.9,fantasy
+58567,Ore dake Level Up na Ken Season 2: Arise from the Shadow,8.78,37,441,538000,292404,finished_airing,2025-01-05,2025-03-30,13,"action, adult cast, adventure, fantasy, urban fantasy",a-1 pictures,all,2025-04-16,2025.0,8-8.9,urban fantasy
+40028,Shingeki no Kyojin: The Final Season,8.78,38,31,2143315,1422187,finished_airing,2020-12-07,2021-03-29,16,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2020.0,8-8.9,action
+40028,Shingeki no Kyojin: The Final Season,8.78,38,31,2143315,1422187,finished_airing,2020-12-07,2021-03-29,16,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2020.0,8-8.9,drama
+40028,Shingeki no Kyojin: The Final Season,8.78,38,31,2143315,1422187,finished_airing,2020-12-07,2021-03-29,16,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2020.0,8-8.9,gore
+40028,Shingeki no Kyojin: The Final Season,8.78,38,31,2143315,1422187,finished_airing,2020-12-07,2021-03-29,16,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2020.0,8-8.9,military
+40028,Shingeki no Kyojin: The Final Season,8.78,38,31,2143315,1422187,finished_airing,2020-12-07,2021-03-29,16,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2020.0,8-8.9,shounen
+40028,Shingeki no Kyojin: The Final Season,8.78,38,31,2143315,1422187,finished_airing,2020-12-07,2021-03-29,16,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2020.0,8-8.9,survival
+40028,Shingeki no Kyojin: The Final Season,8.78,38,31,2143315,1422187,finished_airing,2020-12-07,2021-03-29,16,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2020.0,8-8.9,suspense
+199,Sen to Chihiro no Kamikakushi,8.77,39,44,1942560,1356576,finished_airing,2001-07-20,2001-07-20,1,"adventure, award winning, fantasy, mythology",studio ghibli,all,2025-04-16,2001.0,8-8.9,adventure
+199,Sen to Chihiro no Kamikakushi,8.77,39,44,1942560,1356576,finished_airing,2001-07-20,2001-07-20,1,"adventure, award winning, fantasy, mythology",studio ghibli,all,2025-04-16,2001.0,8-8.9,award winning
+199,Sen to Chihiro no Kamikakushi,8.77,39,44,1942560,1356576,finished_airing,2001-07-20,2001-07-20,1,"adventure, award winning, fantasy, mythology",studio ghibli,all,2025-04-16,2001.0,8-8.9,fantasy
+199,Sen to Chihiro no Kamikakushi,8.77,39,44,1942560,1356576,finished_airing,2001-07-20,2001-07-20,1,"adventure, award winning, fantasy, mythology",studio ghibli,all,2025-04-16,2001.0,8-8.9,mythology
+37521,Vinland Saga,8.77,40,70,1665246,964083,finished_airing,2019-07-08,2019-12-30,24,"action, adventure, drama, gore, historical, seinen",wit studio,all,2025-04-16,2019.0,8-8.9,action
+37521,Vinland Saga,8.77,40,70,1665246,964083,finished_airing,2019-07-08,2019-12-30,24,"action, adventure, drama, gore, historical, seinen",wit studio,all,2025-04-16,2019.0,8-8.9,adventure
+37521,Vinland Saga,8.77,40,70,1665246,964083,finished_airing,2019-07-08,2019-12-30,24,"action, adventure, drama, gore, historical, seinen",wit studio,all,2025-04-16,2019.0,8-8.9,drama
+37521,Vinland Saga,8.77,40,70,1665246,964083,finished_airing,2019-07-08,2019-12-30,24,"action, adventure, drama, gore, historical, seinen",wit studio,all,2025-04-16,2019.0,8-8.9,gore
+37521,Vinland Saga,8.77,40,70,1665246,964083,finished_airing,2019-07-08,2019-12-30,24,"action, adventure, drama, gore, historical, seinen",wit studio,all,2025-04-16,2019.0,8-8.9,historical
+37521,Vinland Saga,8.77,40,70,1665246,964083,finished_airing,2019-07-08,2019-12-30,24,"action, adventure, drama, gore, historical, seinen",wit studio,all,2025-04-16,2019.0,8-8.9,seinen
+32935,Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8.77,41,116,1269095,837899,finished_airing,2016-10-08,2016-12-10,10,"school, shounen, sports, team sports",production i.g,all,2025-04-16,2016.0,8-8.9,school
+32935,Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8.77,41,116,1269095,837899,finished_airing,2016-10-08,2016-12-10,10,"school, shounen, sports, team sports",production i.g,all,2025-04-16,2016.0,8-8.9,shounen
+32935,Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8.77,41,116,1269095,837899,finished_airing,2016-10-08,2016-12-10,10,"school, shounen, sports, team sports",production i.g,all,2025-04-16,2016.0,8-8.9,sports
+32935,Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,8.77,41,116,1269095,837899,finished_airing,2016-10-08,2016-12-10,10,"school, shounen, sports, team sports",production i.g,all,2025-04-16,2016.0,8-8.9,team sports
+48583,Shingeki no Kyojin: The Final Season Part 2,8.76,42,98,1427458,840469,finished_airing,2022-01-10,2022-04-04,12,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2022.0,8-8.9,action
+48583,Shingeki no Kyojin: The Final Season Part 2,8.76,42,98,1427458,840469,finished_airing,2022-01-10,2022-04-04,12,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2022.0,8-8.9,drama
+48583,Shingeki no Kyojin: The Final Season Part 2,8.76,42,98,1427458,840469,finished_airing,2022-01-10,2022-04-04,12,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2022.0,8-8.9,gore
+48583,Shingeki no Kyojin: The Final Season Part 2,8.76,42,98,1427458,840469,finished_airing,2022-01-10,2022-04-04,12,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2022.0,8-8.9,military
+48583,Shingeki no Kyojin: The Final Season Part 2,8.76,42,98,1427458,840469,finished_airing,2022-01-10,2022-04-04,12,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2022.0,8-8.9,shounen
+48583,Shingeki no Kyojin: The Final Season Part 2,8.76,42,98,1427458,840469,finished_airing,2022-01-10,2022-04-04,12,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2022.0,8-8.9,survival
+48583,Shingeki no Kyojin: The Final Season Part 2,8.76,42,98,1427458,840469,finished_airing,2022-01-10,2022-04-04,12,"action, drama, gore, military, shounen, survival, suspense",mappa,all,2025-04-16,2022.0,8-8.9,suspense
+51009,Jujutsu Kaisen 2nd Season,8.76,43,135,1174474,664632,finished_airing,2023-07-06,2023-12-28,23,"action, gore, school, shounen, supernatural",mappa,all,2025-04-16,2023.0,8-8.9,action
+51009,Jujutsu Kaisen 2nd Season,8.76,43,135,1174474,664632,finished_airing,2023-07-06,2023-12-28,23,"action, gore, school, shounen, supernatural",mappa,all,2025-04-16,2023.0,8-8.9,gore
+51009,Jujutsu Kaisen 2nd Season,8.76,43,135,1174474,664632,finished_airing,2023-07-06,2023-12-28,23,"action, gore, school, shounen, supernatural",mappa,all,2025-04-16,2023.0,8-8.9,school
+51009,Jujutsu Kaisen 2nd Season,8.76,43,135,1174474,664632,finished_airing,2023-07-06,2023-12-28,23,"action, gore, school, shounen, supernatural",mappa,all,2025-04-16,2023.0,8-8.9,shounen
+51009,Jujutsu Kaisen 2nd Season,8.76,43,135,1174474,664632,finished_airing,2023-07-06,2023-12-28,23,"action, gore, school, shounen, supernatural",mappa,all,2025-04-16,2023.0,8-8.9,supernatural
+17074,Monogatari Series: Second Season,8.76,44,317,696266,369793,finished_airing,2013-07-07,2013-12-29,26,"comedy, mystery, romance, supernatural, vampire",shaft,all,2025-04-16,2013.0,8-8.9,comedy
+17074,Monogatari Series: Second Season,8.76,44,317,696266,369793,finished_airing,2013-07-07,2013-12-29,26,"comedy, mystery, romance, supernatural, vampire",shaft,all,2025-04-16,2013.0,8-8.9,mystery
+17074,Monogatari Series: Second Season,8.76,44,317,696266,369793,finished_airing,2013-07-07,2013-12-29,26,"comedy, mystery, romance, supernatural, vampire",shaft,all,2025-04-16,2013.0,8-8.9,romance
+17074,Monogatari Series: Second Season,8.76,44,317,696266,369793,finished_airing,2013-07-07,2013-12-29,26,"comedy, mystery, romance, supernatural, vampire",shaft,all,2025-04-16,2013.0,8-8.9,supernatural
+17074,Monogatari Series: Second Season,8.76,44,317,696266,369793,finished_airing,2013-07-07,2013-12-29,26,"comedy, mystery, romance, supernatural, vampire",shaft,all,2025-04-16,2013.0,8-8.9,vampire
+47917,Bocchi the Rock!,8.75,45,324,686342,412981,finished_airing,2022-10-09,2022-12-25,12,"cgdct, comedy, music",cloverworks,all,2025-04-16,2022.0,8-8.9,cgdct
+47917,Bocchi the Rock!,8.75,45,324,686342,412981,finished_airing,2022-10-09,2022-12-25,12,"cgdct, comedy, music",cloverworks,all,2025-04-16,2022.0,8-8.9,comedy
+47917,Bocchi the Rock!,8.75,45,324,686342,412981,finished_airing,2022-10-09,2022-12-25,12,"cgdct, comedy, music",cloverworks,all,2025-04-16,2022.0,8-8.9,music
+55690,Boku no Kokoro no Yabai Yatsu 2nd Season,8.75,46,1025,257454,142928,finished_airing,2024-01-07,2024-03-31,13,"comedy, romance, school, shounen",shin-ei animation,all,2025-04-16,2024.0,8-8.9,comedy
+55690,Boku no Kokoro no Yabai Yatsu 2nd Season,8.75,46,1025,257454,142928,finished_airing,2024-01-07,2024-03-31,13,"comedy, romance, school, shounen",shin-ei animation,all,2025-04-16,2024.0,8-8.9,romance
+55690,Boku no Kokoro no Yabai Yatsu 2nd Season,8.75,46,1025,257454,142928,finished_airing,2024-01-07,2024-03-31,13,"comedy, romance, school, shounen",shin-ei animation,all,2025-04-16,2024.0,8-8.9,school
+55690,Boku no Kokoro no Yabai Yatsu 2nd Season,8.75,46,1025,257454,142928,finished_airing,2024-01-07,2024-03-31,13,"comedy, romance, school, shounen",shin-ei animation,all,2025-04-16,2024.0,8-8.9,shounen
+1,Cowboy Bebop,8.75,47,42,1961186,1012611,finished_airing,1998-04-03,1999-04-24,26,"action, adult cast, award winning, sci-fi, space",sunrise,all,2025-04-16,1998.0,8-8.9,action
+1,Cowboy Bebop,8.75,47,42,1961186,1012611,finished_airing,1998-04-03,1999-04-24,26,"action, adult cast, award winning, sci-fi, space",sunrise,all,2025-04-16,1998.0,8-8.9,adult cast
+1,Cowboy Bebop,8.75,47,42,1961186,1012611,finished_airing,1998-04-03,1999-04-24,26,"action, adult cast, award winning, sci-fi, space",sunrise,all,2025-04-16,1998.0,8-8.9,award winning
+1,Cowboy Bebop,8.75,47,42,1961186,1012611,finished_airing,1998-04-03,1999-04-24,26,"action, adult cast, award winning, sci-fi, space",sunrise,all,2025-04-16,1998.0,8-8.9,sci-fi
+1,Cowboy Bebop,8.75,47,42,1961186,1012611,finished_airing,1998-04-03,1999-04-24,26,"action, adult cast, award winning, sci-fi, space",sunrise,all,2025-04-16,1998.0,8-8.9,space
+2921,Ashita no Joe 2,8.74,48,3040,60021,23427,finished_airing,1980-10-13,1981-08-31,47,"combat sports, drama, shounen, sports",tokyo movie shinsha,all,2025-04-16,1980.0,8-8.9,combat sports
+2921,Ashita no Joe 2,8.74,48,3040,60021,23427,finished_airing,1980-10-13,1981-08-31,47,"combat sports, drama, shounen, sports",tokyo movie shinsha,all,2025-04-16,1980.0,8-8.9,drama
+2921,Ashita no Joe 2,8.74,48,3040,60021,23427,finished_airing,1980-10-13,1981-08-31,47,"combat sports, drama, shounen, sports",tokyo movie shinsha,all,2025-04-16,1980.0,8-8.9,shounen
+2921,Ashita no Joe 2,8.74,48,3040,60021,23427,finished_airing,1980-10-13,1981-08-31,47,"combat sports, drama, shounen, sports",tokyo movie shinsha,all,2025-04-16,1980.0,8-8.9,sports
+52198,Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai,8.74,49,803,324169,180003,finished_airing,2022-12-17,2022-12-17,1,"comedy, drama, romance, school, seinen",a-1 pictures,all,2025-04-16,2022.0,8-8.9,comedy
+52198,Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai,8.74,49,803,324169,180003,finished_airing,2022-12-17,2022-12-17,1,"comedy, drama, romance, school, seinen",a-1 pictures,all,2025-04-16,2022.0,8-8.9,drama
+52198,Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai,8.74,49,803,324169,180003,finished_airing,2022-12-17,2022-12-17,1,"comedy, drama, romance, school, seinen",a-1 pictures,all,2025-04-16,2022.0,8-8.9,romance
+52198,Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai,8.74,49,803,324169,180003,finished_airing,2022-12-17,2022-12-17,1,"comedy, drama, romance, school, seinen",a-1 pictures,all,2025-04-16,2022.0,8-8.9,school
+52198,Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai,8.74,49,803,324169,180003,finished_airing,2022-12-17,2022-12-17,1,"comedy, drama, romance, school, seinen",a-1 pictures,all,2025-04-16,2022.0,8-8.9,seinen
+50160,Kingdom 4th Season,8.73,50,2635,77293,33380,finished_airing,2022-04-10,2022-10-02,26,"action, historical, military, seinen","pierrot, studio signpost",all,2025-04-16,2022.0,8-8.9,action
+50160,Kingdom 4th Season,8.73,50,2635,77293,33380,finished_airing,2022-04-10,2022-10-02,26,"action, historical, military, seinen","pierrot, studio signpost",all,2025-04-16,2022.0,8-8.9,historical
+50160,Kingdom 4th Season,8.73,50,2635,77293,33380,finished_airing,2022-04-10,2022-10-02,26,"action, historical, military, seinen","pierrot, studio signpost",all,2025-04-16,2022.0,8-8.9,military
+50160,Kingdom 4th Season,8.73,50,2635,77293,33380,finished_airing,2022-04-10,2022-10-02,26,"action, historical, military, seinen","pierrot, studio signpost",all,2025-04-16,2022.0,8-8.9,seinen
+58514,Kusuriya no Hitorigoto 2nd Season,8.82,31,976,268427,48893,currently_airing,2025-01-10,,24,"drama, historical, medical, mystery","olm, toho animation studio",airing,2025-04-16,2025.0,8-8.9,drama
+58514,Kusuriya no Hitorigoto 2nd Season,8.82,31,976,268427,48893,currently_airing,2025-01-10,,24,"drama, historical, medical, mystery","olm, toho animation studio",airing,2025-04-16,2025.0,8-8.9,historical
+58514,Kusuriya no Hitorigoto 2nd Season,8.82,31,976,268427,48893,currently_airing,2025-01-10,,24,"drama, historical, medical, mystery","olm, toho animation studio",airing,2025-04-16,2025.0,8-8.9,medical
+58514,Kusuriya no Hitorigoto 2nd Season,8.82,31,976,268427,48893,currently_airing,2025-01-10,,24,"drama, historical, medical, mystery","olm, toho animation studio",airing,2025-04-16,2025.0,8-8.9,mystery
+21,One Piece,8.73,51,17,2516181,1430365,currently_airing,1999-10-20,,0,"action, adventure, fantasy, shounen",toei animation,airing,2025-04-16,1999.0,8-8.9,action
+21,One Piece,8.73,51,17,2516181,1430365,currently_airing,1999-10-20,,0,"action, adventure, fantasy, shounen",toei animation,airing,2025-04-16,1999.0,8-8.9,adventure
+21,One Piece,8.73,51,17,2516181,1430365,currently_airing,1999-10-20,,0,"action, adventure, fantasy, shounen",toei animation,airing,2025-04-16,1999.0,8-8.9,fantasy
+21,One Piece,8.73,51,17,2516181,1430365,currently_airing,1999-10-20,,0,"action, adventure, fantasy, shounen",toei animation,airing,2025-04-16,1999.0,8-8.9,shounen
+60988,Tian Guan Cifu Short Film,8.52,133,8418,5968,1057,currently_airing,2025-02-12,,0,"action, adventure, drama, fantasy, historical, mythology",,airing,2025-04-16,2025.0,8-8.9,action
+60988,Tian Guan Cifu Short Film,8.52,133,8418,5968,1057,currently_airing,2025-02-12,,0,"action, adventure, drama, fantasy, historical, mythology",,airing,2025-04-16,2025.0,8-8.9,adventure
+60988,Tian Guan Cifu Short Film,8.52,133,8418,5968,1057,currently_airing,2025-02-12,,0,"action, adventure, drama, fantasy, historical, mythology",,airing,2025-04-16,2025.0,8-8.9,drama
+60988,Tian Guan Cifu Short Film,8.52,133,8418,5968,1057,currently_airing,2025-02-12,,0,"action, adventure, drama, fantasy, historical, mythology",,airing,2025-04-16,2025.0,8-8.9,fantasy
+60988,Tian Guan Cifu Short Film,8.52,133,8418,5968,1057,currently_airing,2025-02-12,,0,"action, adventure, drama, fantasy, historical, mythology",,airing,2025-04-16,2025.0,8-8.9,historical
+60988,Tian Guan Cifu Short Film,8.52,133,8418,5968,1057,currently_airing,2025-02-12,,0,"action, adventure, drama, fantasy, historical, mythology",,airing,2025-04-16,2025.0,8-8.9,mythology
+53447,Tu Bian Yingxiong X,8.51,142,2926,64885,8337,currently_airing,2025-04-06,,24,"action, super power","pb animation co. ltd., lan studio, paper plane animation studio",airing,2025-04-16,2025.0,8-8.9,action
+53447,Tu Bian Yingxiong X,8.51,142,2926,64885,8337,currently_airing,2025-04-06,,24,"action, super power","pb animation co. ltd., lan studio, paper plane animation studio",airing,2025-04-16,2025.0,8-8.9,super power
+51039,Doupo Cangqiong: Nian Fan,8.46,164,6812,10113,3393,currently_airing,2022-07-31,,157,"action, adventure, fantasy, martial arts",motion magic,airing,2025-04-16,2022.0,8-8.9,action
+51039,Doupo Cangqiong: Nian Fan,8.46,164,6812,10113,3393,currently_airing,2022-07-31,,157,"action, adventure, fantasy, martial arts",motion magic,airing,2025-04-16,2022.0,8-8.9,adventure
+51039,Doupo Cangqiong: Nian Fan,8.46,164,6812,10113,3393,currently_airing,2022-07-31,,157,"action, adventure, fantasy, martial arts",motion magic,airing,2025-04-16,2022.0,8-8.9,fantasy
+51039,Doupo Cangqiong: Nian Fan,8.46,164,6812,10113,3393,currently_airing,2022-07-31,,157,"action, adventure, fantasy, martial arts",motion magic,airing,2025-04-16,2022.0,8-8.9,martial arts
+56524,Tunshi Xingkong 4th Season,8.38,208,9488,4285,1455,currently_airing,2023-10-03,,123,"action, adventure, fantasy, martial arts, sci-fi",sparkly key animation studio,airing,2025-04-16,2023.0,8-8.9,action
+56524,Tunshi Xingkong 4th Season,8.38,208,9488,4285,1455,currently_airing,2023-10-03,,123,"action, adventure, fantasy, martial arts, sci-fi",sparkly key animation studio,airing,2025-04-16,2023.0,8-8.9,adventure
+56524,Tunshi Xingkong 4th Season,8.38,208,9488,4285,1455,currently_airing,2023-10-03,,123,"action, adventure, fantasy, martial arts, sci-fi",sparkly key animation studio,airing,2025-04-16,2023.0,8-8.9,fantasy
+56524,Tunshi Xingkong 4th Season,8.38,208,9488,4285,1455,currently_airing,2023-10-03,,123,"action, adventure, fantasy, martial arts, sci-fi",sparkly key animation studio,airing,2025-04-16,2023.0,8-8.9,martial arts
+56524,Tunshi Xingkong 4th Season,8.38,208,9488,4285,1455,currently_airing,2023-10-03,,123,"action, adventure, fantasy, martial arts, sci-fi",sparkly key animation studio,airing,2025-04-16,2023.0,8-8.9,sci-fi
+55809,Xian Ni,8.35,237,8124,6489,1585,currently_airing,2023-09-25,,128,"action, adventure, fantasy, historical",build dream,airing,2025-04-16,2023.0,8-8.9,action
+55809,Xian Ni,8.35,237,8124,6489,1585,currently_airing,2023-09-25,,128,"action, adventure, fantasy, historical",build dream,airing,2025-04-16,2023.0,8-8.9,adventure
+55809,Xian Ni,8.35,237,8124,6489,1585,currently_airing,2023-09-25,,128,"action, adventure, fantasy, historical",build dream,airing,2025-04-16,2023.0,8-8.9,fantasy
+55809,Xian Ni,8.35,237,8124,6489,1585,currently_airing,2023-09-25,,128,"action, adventure, fantasy, historical",build dream,airing,2025-04-16,2023.0,8-8.9,historical
+52684,Shen Yin Wangzuo 2nd Season,8.23,359,8269,6195,2341,currently_airing,2022-11-10,,0,"action, adventure, fantasy",shenman entertainment,airing,2025-04-16,2022.0,8-8.9,action
+52684,Shen Yin Wangzuo 2nd Season,8.23,359,8269,6195,2341,currently_airing,2022-11-10,,0,"action, adventure, fantasy",shenman entertainment,airing,2025-04-16,2022.0,8-8.9,adventure
+52684,Shen Yin Wangzuo 2nd Season,8.23,359,8269,6195,2341,currently_airing,2022-11-10,,0,"action, adventure, fantasy",shenman entertainment,airing,2025-04-16,2022.0,8-8.9,fantasy
+235,Meitantei Conan,8.17,438,701,363876,165011,currently_airing,1996-01-08,,0,"adventure, comedy, detective, mystery, shounen",tms entertainment,airing,2025-04-16,1996.0,8-8.9,adventure
+235,Meitantei Conan,8.17,438,701,363876,165011,currently_airing,1996-01-08,,0,"adventure, comedy, detective, mystery, shounen",tms entertainment,airing,2025-04-16,1996.0,8-8.9,comedy
+235,Meitantei Conan,8.17,438,701,363876,165011,currently_airing,1996-01-08,,0,"adventure, comedy, detective, mystery, shounen",tms entertainment,airing,2025-04-16,1996.0,8-8.9,detective
+235,Meitantei Conan,8.17,438,701,363876,165011,currently_airing,1996-01-08,,0,"adventure, comedy, detective, mystery, shounen",tms entertainment,airing,2025-04-16,1996.0,8-8.9,mystery
+235,Meitantei Conan,8.17,438,701,363876,165011,currently_airing,1996-01-08,,0,"adventure, comedy, detective, mystery, shounen",tms entertainment,airing,2025-04-16,1996.0,8-8.9,shounen
+44042,Holo no Graffiti,8.16,455,3112,57572,18025,currently_airing,2019-05-05,,0,comedy,hololive production,airing,2025-04-16,2019.0,8-8.9,comedy
+59228,Kuroshitsuji: Midori no Majo-hen,8.15,459,3976,36477,2041,currently_airing,2025-04-05,,13,"action, historical, mystery, mythology, shounen, supernatural",cloverworks,airing,2025-04-16,2025.0,8-8.9,action
+59228,Kuroshitsuji: Midori no Majo-hen,8.15,459,3976,36477,2041,currently_airing,2025-04-05,,13,"action, historical, mystery, mythology, shounen, supernatural",cloverworks,airing,2025-04-16,2025.0,8-8.9,historical
+59228,Kuroshitsuji: Midori no Majo-hen,8.15,459,3976,36477,2041,currently_airing,2025-04-05,,13,"action, historical, mystery, mythology, shounen, supernatural",cloverworks,airing,2025-04-16,2025.0,8-8.9,mystery
+59228,Kuroshitsuji: Midori no Majo-hen,8.15,459,3976,36477,2041,currently_airing,2025-04-05,,13,"action, historical, mystery, mythology, shounen, supernatural",cloverworks,airing,2025-04-16,2025.0,8-8.9,mythology
+59228,Kuroshitsuji: Midori no Majo-hen,8.15,459,3976,36477,2041,currently_airing,2025-04-05,,13,"action, historical, mystery, mythology, shounen, supernatural",cloverworks,airing,2025-04-16,2025.0,8-8.9,shounen
+59228,Kuroshitsuji: Midori no Majo-hen,8.15,459,3976,36477,2041,currently_airing,2025-04-05,,13,"action, historical, mystery, mythology, shounen, supernatural",cloverworks,airing,2025-04-16,2025.0,8-8.9,supernatural
+59160,Wind Breaker Season 2,8.14,471,2049,114632,9223,currently_airing,2025-04-04,,12,"action, delinquents, school",cloverworks,airing,2025-04-16,2025.0,8-8.9,action
+59160,Wind Breaker Season 2,8.14,471,2049,114632,9223,currently_airing,2025-04-04,,12,"action, delinquents, school",cloverworks,airing,2025-04-16,2025.0,8-8.9,delinquents
+59160,Wind Breaker Season 2,8.14,471,2049,114632,9223,currently_airing,2025-04-04,,12,"action, delinquents, school",cloverworks,airing,2025-04-16,2025.0,8-8.9,school
+59636,Uma Musume: Cinderella Gray,8.11,506,5577,16617,1616,currently_airing,2025-04-06,,13,"anthropomorphic, drama, racing, seinen, sports",cygamespictures,airing,2025-04-16,2025.0,8-8.9,anthropomorphic
+59636,Uma Musume: Cinderella Gray,8.11,506,5577,16617,1616,currently_airing,2025-04-06,,13,"anthropomorphic, drama, racing, seinen, sports",cygamespictures,airing,2025-04-16,2025.0,8-8.9,drama
+59636,Uma Musume: Cinderella Gray,8.11,506,5577,16617,1616,currently_airing,2025-04-06,,13,"anthropomorphic, drama, racing, seinen, sports",cygamespictures,airing,2025-04-16,2025.0,8-8.9,racing
+59636,Uma Musume: Cinderella Gray,8.11,506,5577,16617,1616,currently_airing,2025-04-06,,13,"anthropomorphic, drama, racing, seinen, sports",cygamespictures,airing,2025-04-16,2025.0,8-8.9,seinen
+59636,Uma Musume: Cinderella Gray,8.11,506,5577,16617,1616,currently_airing,2025-04-06,,13,"anthropomorphic, drama, racing, seinen, sports",cygamespictures,airing,2025-04-16,2025.0,8-8.9,sports
+51818,Enen no Shouboutai: San no Shou,8.11,519,1340,192868,8812,currently_airing,2025-04-05,,12,"action, fantasy, sci-fi, shounen, urban fantasy",david production,airing,2025-04-16,2025.0,8-8.9,action
+51818,Enen no Shouboutai: San no Shou,8.11,519,1340,192868,8812,currently_airing,2025-04-05,,12,"action, fantasy, sci-fi, shounen, urban fantasy",david production,airing,2025-04-16,2025.0,8-8.9,fantasy
+51818,Enen no Shouboutai: San no Shou,8.11,519,1340,192868,8812,currently_airing,2025-04-05,,12,"action, fantasy, sci-fi, shounen, urban fantasy",david production,airing,2025-04-16,2025.0,8-8.9,sci-fi
+51818,Enen no Shouboutai: San no Shou,8.11,519,1340,192868,8812,currently_airing,2025-04-05,,12,"action, fantasy, sci-fi, shounen, urban fantasy",david production,airing,2025-04-16,2025.0,8-8.9,shounen
+51818,Enen no Shouboutai: San no Shou,8.11,519,1340,192868,8812,currently_airing,2025-04-05,,12,"action, fantasy, sci-fi, shounen, urban fantasy",david production,airing,2025-04-16,2025.0,8-8.9,urban fantasy
+51836,Douluo Dalu II: Jueshi Tangmen,8.07,565,8658,5588,1523,currently_airing,2023-06-24,,104,"action, adventure, fantasy, martial arts",sparkly key animation studio,airing,2025-04-16,2023.0,8-8.9,action
+51836,Douluo Dalu II: Jueshi Tangmen,8.07,565,8658,5588,1523,currently_airing,2023-06-24,,104,"action, adventure, fantasy, martial arts",sparkly key animation studio,airing,2025-04-16,2023.0,8-8.9,adventure
+51836,Douluo Dalu II: Jueshi Tangmen,8.07,565,8658,5588,1523,currently_airing,2023-06-24,,104,"action, adventure, fantasy, martial arts",sparkly key animation studio,airing,2025-04-16,2023.0,8-8.9,fantasy
+51836,Douluo Dalu II: Jueshi Tangmen,8.07,565,8658,5588,1523,currently_airing,2023-06-24,,104,"action, adventure, fantasy, martial arts",sparkly key animation studio,airing,2025-04-16,2023.0,8-8.9,martial arts
+59953,Mushen Ji,7.93,767,6113,13027,11996,currently_airing,2024-10-27,,0,"action, adventure, fantasy, historical",sparkly key animation studio,airing,2025-04-16,2024.0,7-7.9,action
+59953,Mushen Ji,7.93,767,6113,13027,11996,currently_airing,2024-10-27,,0,"action, adventure, fantasy, historical",sparkly key animation studio,airing,2025-04-16,2024.0,7-7.9,adventure
+59953,Mushen Ji,7.93,767,6113,13027,11996,currently_airing,2024-10-27,,0,"action, adventure, fantasy, historical",sparkly key animation studio,airing,2025-04-16,2024.0,7-7.9,fantasy
+59953,Mushen Ji,7.93,767,6113,13027,11996,currently_airing,2024-10-27,,0,"action, adventure, fantasy, historical",sparkly key animation studio,airing,2025-04-16,2024.0,7-7.9,historical
+47405,Wanmei Shijie,7.87,894,6318,12021,2350,currently_airing,2021-04-23,,234,"action, adventure, fantasy",foch film,airing,2025-04-16,2021.0,7-7.9,action
+47405,Wanmei Shijie,7.87,894,6318,12021,2350,currently_airing,2021-04-23,,234,"action, adventure, fantasy",foch film,airing,2025-04-16,2021.0,7-7.9,adventure
+47405,Wanmei Shijie,7.87,894,6318,12021,2350,currently_airing,2021-04-23,,234,"action, adventure, fantasy",foch film,airing,2025-04-16,2021.0,7-7.9,fantasy
+50250,Chiikawa,7.85,937,7689,7403,1823,currently_airing,2022-04-04,,0,"comedy, seinen",doga kobo,airing,2025-04-16,2022.0,7-7.9,comedy
+50250,Chiikawa,7.85,937,7689,7403,1823,currently_airing,2022-04-04,,0,"comedy, seinen",doga kobo,airing,2025-04-16,2022.0,7-7.9,seinen
+60557,Fanren Xiu Xian Chuan: Waihai Fengyun,7.83,971,13692,1211,231,currently_airing,2025-01-18,,52,"action, adventure, fantasy, historical, martial arts","original force, wonder cat animation",airing,2025-04-16,2025.0,7-7.9,action
+60557,Fanren Xiu Xian Chuan: Waihai Fengyun,7.83,971,13692,1211,231,currently_airing,2025-01-18,,52,"action, adventure, fantasy, historical, martial arts","original force, wonder cat animation",airing,2025-04-16,2025.0,7-7.9,adventure
+60557,Fanren Xiu Xian Chuan: Waihai Fengyun,7.83,971,13692,1211,231,currently_airing,2025-01-18,,52,"action, adventure, fantasy, historical, martial arts","original force, wonder cat animation",airing,2025-04-16,2025.0,7-7.9,fantasy
+60557,Fanren Xiu Xian Chuan: Waihai Fengyun,7.83,971,13692,1211,231,currently_airing,2025-01-18,,52,"action, adventure, fantasy, historical, martial arts","original force, wonder cat animation",airing,2025-04-16,2025.0,7-7.9,historical
+60557,Fanren Xiu Xian Chuan: Waihai Fengyun,7.83,971,13692,1211,231,currently_airing,2025-01-18,,52,"action, adventure, fantasy, historical, martial arts","original force, wonder cat animation",airing,2025-04-16,2025.0,7-7.9,martial arts
+56215,Yi Nian Yong Heng 3rd Season,7.82,996,11124,2602,438,currently_airing,2024-07-03,,59,"action, adventure, fantasy, historical, martial arts",b.cmay pictures,airing,2025-04-16,2024.0,7-7.9,action
+56215,Yi Nian Yong Heng 3rd Season,7.82,996,11124,2602,438,currently_airing,2024-07-03,,59,"action, adventure, fantasy, historical, martial arts",b.cmay pictures,airing,2025-04-16,2024.0,7-7.9,adventure
+56215,Yi Nian Yong Heng 3rd Season,7.82,996,11124,2602,438,currently_airing,2024-07-03,,59,"action, adventure, fantasy, historical, martial arts",b.cmay pictures,airing,2025-04-16,2024.0,7-7.9,fantasy
+56215,Yi Nian Yong Heng 3rd Season,7.82,996,11124,2602,438,currently_airing,2024-07-03,,59,"action, adventure, fantasy, historical, martial arts",b.cmay pictures,airing,2025-04-16,2024.0,7-7.9,historical
+56215,Yi Nian Yong Heng 3rd Season,7.82,996,11124,2602,438,currently_airing,2024-07-03,,59,"action, adventure, fantasy, historical, martial arts",b.cmay pictures,airing,2025-04-16,2024.0,7-7.9,martial arts
+60083,Kowloon Generic Romance,7.81,1015,2820,69116,6303,currently_airing,2025-04-05,,13,"adult cast, romance, sci-fi, seinen, workplace",arvo animation,airing,2025-04-16,2025.0,7-7.9,adult cast
+60083,Kowloon Generic Romance,7.81,1015,2820,69116,6303,currently_airing,2025-04-05,,13,"adult cast, romance, sci-fi, seinen, workplace",arvo animation,airing,2025-04-16,2025.0,7-7.9,romance
+60083,Kowloon Generic Romance,7.81,1015,2820,69116,6303,currently_airing,2025-04-05,,13,"adult cast, romance, sci-fi, seinen, workplace",arvo animation,airing,2025-04-16,2025.0,7-7.9,sci-fi
+60083,Kowloon Generic Romance,7.81,1015,2820,69116,6303,currently_airing,2025-04-05,,13,"adult cast, romance, sci-fi, seinen, workplace",arvo animation,airing,2025-04-16,2025.0,7-7.9,seinen
+60083,Kowloon Generic Romance,7.81,1015,2820,69116,6303,currently_airing,2025-04-05,,13,"adult cast, romance, sci-fi, seinen, workplace",arvo animation,airing,2025-04-16,2025.0,7-7.9,workplace
+966,Crayon Shin-chan,7.81,1030,2397,89708,42382,currently_airing,1992-04-13,,0,"comedy, ecchi, school, seinen",shin-ei animation,airing,2025-04-16,1992.0,7-7.9,comedy
+966,Crayon Shin-chan,7.81,1030,2397,89708,42382,currently_airing,1992-04-13,,0,"comedy, ecchi, school, seinen",shin-ei animation,airing,2025-04-16,1992.0,7-7.9,ecchi
+966,Crayon Shin-chan,7.81,1030,2397,89708,42382,currently_airing,1992-04-13,,0,"comedy, ecchi, school, seinen",shin-ei animation,airing,2025-04-16,1992.0,7-7.9,school
+966,Crayon Shin-chan,7.81,1030,2397,89708,42382,currently_airing,1992-04-13,,0,"comedy, ecchi, school, seinen",shin-ei animation,airing,2025-04-16,1992.0,7-7.9,seinen
+60420,Cang Yuan Tu 2nd Season,7.78,1104,14138,1076,256,currently_airing,2024-12-06,,27,"action, adventure, fantasy, historical, martial arts","shenman entertainment, tianshi wenhua",airing,2025-04-16,2024.0,7-7.9,action
+60420,Cang Yuan Tu 2nd Season,7.78,1104,14138,1076,256,currently_airing,2024-12-06,,27,"action, adventure, fantasy, historical, martial arts","shenman entertainment, tianshi wenhua",airing,2025-04-16,2024.0,7-7.9,adventure
+60420,Cang Yuan Tu 2nd Season,7.78,1104,14138,1076,256,currently_airing,2024-12-06,,27,"action, adventure, fantasy, historical, martial arts","shenman entertainment, tianshi wenhua",airing,2025-04-16,2024.0,7-7.9,fantasy
+60420,Cang Yuan Tu 2nd Season,7.78,1104,14138,1076,256,currently_airing,2024-12-06,,27,"action, adventure, fantasy, historical, martial arts","shenman entertainment, tianshi wenhua",airing,2025-04-16,2024.0,7-7.9,historical
+60420,Cang Yuan Tu 2nd Season,7.78,1104,14138,1076,256,currently_airing,2024-12-06,,27,"action, adventure, fantasy, historical, martial arts","shenman entertainment, tianshi wenhua",airing,2025-04-16,2024.0,7-7.9,martial arts
+60334,Anne Shirley,7.75,1173,4772,24513,2506,currently_airing,2025-04-05,,24,"drama, historical",the answer studio,airing,2025-04-16,2025.0,7-7.9,drama
+60334,Anne Shirley,7.75,1173,4772,24513,2506,currently_airing,2025-04-05,,24,"drama, historical",the answer studio,airing,2025-04-16,2025.0,7-7.9,historical
+8687,Doraemon (2005),7.72,1259,5021,21784,9680,currently_airing,2005-04-22,,0,"anthropomorphic, comedy, kids, sci-fi, shounen",shin-ei animation,airing,2025-04-16,2005.0,7-7.9,anthropomorphic
+8687,Doraemon (2005),7.72,1259,5021,21784,9680,currently_airing,2005-04-22,,0,"anthropomorphic, comedy, kids, sci-fi, shounen",shin-ei animation,airing,2025-04-16,2005.0,7-7.9,comedy
+8687,Doraemon (2005),7.72,1259,5021,21784,9680,currently_airing,2005-04-22,,0,"anthropomorphic, comedy, kids, sci-fi, shounen",shin-ei animation,airing,2025-04-16,2005.0,7-7.9,kids
+8687,Doraemon (2005),7.72,1259,5021,21784,9680,currently_airing,2005-04-22,,0,"anthropomorphic, comedy, kids, sci-fi, shounen",shin-ei animation,airing,2025-04-16,2005.0,7-7.9,sci-fi
+8687,Doraemon (2005),7.72,1259,5021,21784,9680,currently_airing,2005-04-22,,0,"anthropomorphic, comedy, kids, sci-fi, shounen",shin-ei animation,airing,2025-04-16,2005.0,7-7.9,shounen
+56038,Lazarus,7.71,1281,1781,136271,7806,currently_airing,2025-04-06,,13,sci-fi,mappa,airing,2025-04-16,2025.0,7-7.9,sci-fi
+58812,Shin Samurai-den Yaiba,7.67,1374,4932,22699,2494,currently_airing,2025-04-05,,0,"adventure, samurai, shounen",wit studio,airing,2025-04-16,2025.0,7-7.9,adventure
+58812,Shin Samurai-den Yaiba,7.67,1374,4932,22699,2494,currently_airing,2025-04-05,,0,"adventure, samurai, shounen",wit studio,airing,2025-04-16,2025.0,7-7.9,samurai
+58812,Shin Samurai-den Yaiba,7.67,1374,4932,22699,2494,currently_airing,2025-04-05,,0,"adventure, samurai, shounen",wit studio,airing,2025-04-16,2025.0,7-7.9,shounen
+60449,Kidou Senshi Gundam: GQuuuuuuX,7.66,1448,4428,29223,2322,currently_airing,2025-04-09,,0,"action, mecha, sci-fi, space","sunrise, khara",airing,2025-04-16,2025.0,7-7.9,action
+60449,Kidou Senshi Gundam: GQuuuuuuX,7.66,1448,4428,29223,2322,currently_airing,2025-04-09,,0,"action, mecha, sci-fi, space","sunrise, khara",airing,2025-04-16,2025.0,7-7.9,mecha
+60449,Kidou Senshi Gundam: GQuuuuuuX,7.66,1448,4428,29223,2322,currently_airing,2025-04-09,,0,"action, mecha, sci-fi, space","sunrise, khara",airing,2025-04-16,2025.0,7-7.9,sci-fi
+60449,Kidou Senshi Gundam: GQuuuuuuX,7.66,1448,4428,29223,2322,currently_airing,2025-04-09,,0,"action, mecha, sci-fi, space","sunrise, khara",airing,2025-04-16,2025.0,7-7.9,space
+59189,Sentai Daishikkaku 2nd Season,7.66,1435,3576,45003,1480,currently_airing,2025-04-13,,12,"action, fantasy, shounen, urban fantasy",yostar pictures,airing,2025-04-16,2025.0,7-7.9,action
+59189,Sentai Daishikkaku 2nd Season,7.66,1435,3576,45003,1480,currently_airing,2025-04-13,,12,"action, fantasy, shounen, urban fantasy",yostar pictures,airing,2025-04-16,2025.0,7-7.9,fantasy
+59189,Sentai Daishikkaku 2nd Season,7.66,1435,3576,45003,1480,currently_airing,2025-04-13,,12,"action, fantasy, shounen, urban fantasy",yostar pictures,airing,2025-04-16,2025.0,7-7.9,shounen
+59189,Sentai Daishikkaku 2nd Season,7.66,1435,3576,45003,1480,currently_airing,2025-04-13,,12,"action, fantasy, shounen, urban fantasy",yostar pictures,airing,2025-04-16,2025.0,7-7.9,urban fantasy
+49778,Kijin Gentoushou,7.65,1449,3012,61531,6266,currently_airing,2025-03-31,,0,"action, adventure, fantasy, historical",yokohama animation laboratory,airing,2025-04-16,2025.0,7-7.9,action
+49778,Kijin Gentoushou,7.65,1449,3012,61531,6266,currently_airing,2025-03-31,,0,"action, adventure, fantasy, historical",yokohama animation laboratory,airing,2025-04-16,2025.0,7-7.9,adventure
+49778,Kijin Gentoushou,7.65,1449,3012,61531,6266,currently_airing,2025-03-31,,0,"action, adventure, fantasy, historical",yokohama animation laboratory,airing,2025-04-16,2025.0,7-7.9,fantasy
+49778,Kijin Gentoushou,7.65,1449,3012,61531,6266,currently_airing,2025-03-31,,0,"action, adventure, fantasy, historical",yokohama animation laboratory,airing,2025-04-16,2025.0,7-7.9,historical
+59828,Shoushimin Series 2nd Season,7.64,1477,4490,28271,2275,currently_airing,2025-04-06,,0,"mystery, school",lapin track,airing,2025-04-16,2025.0,7-7.9,mystery
+59828,Shoushimin Series 2nd Season,7.64,1477,4490,28271,2275,currently_airing,2025-04-06,,0,"mystery, school",lapin track,airing,2025-04-16,2025.0,7-7.9,school
+57442,Shixiong A Shixiong 2nd Season,7.62,1525,12809,1545,380,currently_airing,2023-12-14,,78,"action, adventure, fantasy, historical, martial arts",sparkly key animation studio,airing,2025-04-16,2023.0,7-7.9,action
+57442,Shixiong A Shixiong 2nd Season,7.62,1525,12809,1545,380,currently_airing,2023-12-14,,78,"action, adventure, fantasy, historical, martial arts",sparkly key animation studio,airing,2025-04-16,2023.0,7-7.9,adventure
+57442,Shixiong A Shixiong 2nd Season,7.62,1525,12809,1545,380,currently_airing,2023-12-14,,78,"action, adventure, fantasy, historical, martial arts",sparkly key animation studio,airing,2025-04-16,2023.0,7-7.9,fantasy
+57442,Shixiong A Shixiong 2nd Season,7.62,1525,12809,1545,380,currently_airing,2023-12-14,,78,"action, adventure, fantasy, historical, martial arts",sparkly key animation studio,airing,2025-04-16,2023.0,7-7.9,historical
+57442,Shixiong A Shixiong 2nd Season,7.62,1525,12809,1545,380,currently_airing,2023-12-14,,78,"action, adventure, fantasy, historical, martial arts",sparkly key animation studio,airing,2025-04-16,2023.0,7-7.9,martial arts
+51289,Zhe Tian,7.59,1641,10869,2805,654,currently_airing,2023-05-03,,156,"action, adventure, sci-fi",original force,airing,2025-04-16,2023.0,7-7.9,action
+51289,Zhe Tian,7.59,1641,10869,2805,654,currently_airing,2023-05-03,,156,"action, adventure, sci-fi",original force,airing,2025-04-16,2023.0,7-7.9,adventure
+51289,Zhe Tian,7.59,1641,10869,2805,654,currently_airing,2023-05-03,,156,"action, adventure, sci-fi",original force,airing,2025-04-16,2023.0,7-7.9,sci-fi
+59466,Aharen-san wa Hakarenai Season 2,7.58,1659,3227,53855,3234,currently_airing,2025-04-07,,12,"comedy, love status quo, romance, school, shounen",felix film,airing,2025-04-16,2025.0,7-7.9,comedy
+59466,Aharen-san wa Hakarenai Season 2,7.58,1659,3227,53855,3234,currently_airing,2025-04-07,,12,"comedy, love status quo, romance, school, shounen",felix film,airing,2025-04-16,2025.0,7-7.9,love status quo
+59466,Aharen-san wa Hakarenai Season 2,7.58,1659,3227,53855,3234,currently_airing,2025-04-07,,12,"comedy, love status quo, romance, school, shounen",felix film,airing,2025-04-16,2025.0,7-7.9,romance
+59466,Aharen-san wa Hakarenai Season 2,7.58,1659,3227,53855,3234,currently_airing,2025-04-07,,12,"comedy, love status quo, romance, school, shounen",felix film,airing,2025-04-16,2025.0,7-7.9,school
+59466,Aharen-san wa Hakarenai Season 2,7.58,1659,3227,53855,3234,currently_airing,2025-04-07,,12,"comedy, love status quo, romance, school, shounen",felix film,airing,2025-04-16,2025.0,7-7.9,shounen
+59597,Witch Watch,7.58,1682,2657,76174,7642,currently_airing,2025-04-06,,26,"comedy, shounen, supernatural",bibury animation studios,airing,2025-04-16,2025.0,7-7.9,comedy
+59597,Witch Watch,7.58,1682,2657,76174,7642,currently_airing,2025-04-06,,26,"comedy, shounen, supernatural",bibury animation studios,airing,2025-04-16,2025.0,7-7.9,shounen
+59597,Witch Watch,7.58,1682,2657,76174,7642,currently_airing,2025-04-06,,26,"comedy, shounen, supernatural",bibury animation studios,airing,2025-04-16,2025.0,7-7.9,supernatural
+59360,Rock wa Lady no Tashinami deshite,7.57,1708,4300,30920,3175,currently_airing,2025-04-03,,0,"comedy, music, school, seinen",bandai namco pictures,airing,2025-04-16,2025.0,7-7.9,comedy
+59360,Rock wa Lady no Tashinami deshite,7.57,1708,4300,30920,3175,currently_airing,2025-04-03,,0,"comedy, music, school, seinen",bandai namco pictures,airing,2025-04-16,2025.0,7-7.9,music
+59360,Rock wa Lady no Tashinami deshite,7.57,1708,4300,30920,3175,currently_airing,2025-04-03,,0,"comedy, music, school, seinen",bandai namco pictures,airing,2025-04-16,2025.0,7-7.9,school
+59360,Rock wa Lady no Tashinami deshite,7.57,1708,4300,30920,3175,currently_airing,2025-04-03,,0,"comedy, music, school, seinen",bandai namco pictures,airing,2025-04-16,2025.0,7-7.9,seinen
+41409,Wushen Zhuzai,7.54,1824,8195,6365,1644,currently_airing,2020-03-08,,608,"action, drama, fantasy, historical, martial arts",ruo hong culture,airing,2025-04-16,2020.0,7-7.9,action
+41409,Wushen Zhuzai,7.54,1824,8195,6365,1644,currently_airing,2020-03-08,,608,"action, drama, fantasy, historical, martial arts",ruo hong culture,airing,2025-04-16,2020.0,7-7.9,drama
+41409,Wushen Zhuzai,7.54,1824,8195,6365,1644,currently_airing,2020-03-08,,608,"action, drama, fantasy, historical, martial arts",ruo hong culture,airing,2025-04-16,2020.0,7-7.9,fantasy
+41409,Wushen Zhuzai,7.54,1824,8195,6365,1644,currently_airing,2020-03-08,,608,"action, drama, fantasy, historical, martial arts",ruo hong culture,airing,2025-04-16,2020.0,7-7.9,historical
+41409,Wushen Zhuzai,7.54,1824,8195,6365,1644,currently_airing,2020-03-08,,608,"action, drama, fantasy, historical, martial arts",ruo hong culture,airing,2025-04-16,2020.0,7-7.9,martial arts
+60593,Vigilante: Boku no Hero Academia Illegals,7.53,1880,2572,80525,5802,currently_airing,2025-04-07,,13,"action, shounen, super power",bones film,airing,2025-04-16,2025.0,7-7.9,action
+60593,Vigilante: Boku no Hero Academia Illegals,7.53,1880,2572,80525,5802,currently_airing,2025-04-07,,13,"action, shounen, super power",bones film,airing,2025-04-16,2025.0,7-7.9,shounen
+60593,Vigilante: Boku no Hero Academia Illegals,7.53,1880,2572,80525,5802,currently_airing,2025-04-07,,13,"action, shounen, super power",bones film,airing,2025-04-16,2025.0,7-7.9,super power
+58492,Mono,7.52,1901,5586,16551,1388,currently_airing,2025-04-13,,12,"cgdct, comedy",soigne,airing,2025-04-16,2025.0,7-7.9,cgdct
+58492,Mono,7.52,1901,5586,16551,1388,currently_airing,2025-04-13,,12,"cgdct, comedy",soigne,airing,2025-04-16,2025.0,7-7.9,comedy
+50694,Summer Pockets,7.44,2215,4208,32571,3069,currently_airing,2025-04-07,,0,slice of life,feel.,airing,2025-04-16,2025.0,7-7.9,slice of life
+60407,Kimi to Idol Precure♪,7.44,2232,9291,4573,614,currently_airing,2025-02-02,,49,"action, mahou shoujo",toei animation,airing,2025-04-16,2025.0,7-7.9,action
+60407,Kimi to Idol Precure♪,7.44,2232,9291,4573,614,currently_airing,2025-02-02,,49,"action, mahou shoujo",toei animation,airing,2025-04-16,2025.0,7-7.9,mahou shoujo
+54437,Lian Qi Shi Wan Nian,7.43,2241,10978,2725,704,currently_airing,2023-02-18,,260,"action, adventure, fantasy, historical, martial arts",suoyi technology,airing,2025-04-16,2023.0,7-7.9,action
+54437,Lian Qi Shi Wan Nian,7.43,2241,10978,2725,704,currently_airing,2023-02-18,,260,"action, adventure, fantasy, historical, martial arts",suoyi technology,airing,2025-04-16,2023.0,7-7.9,adventure
+54437,Lian Qi Shi Wan Nian,7.43,2241,10978,2725,704,currently_airing,2023-02-18,,260,"action, adventure, fantasy, historical, martial arts",suoyi technology,airing,2025-04-16,2023.0,7-7.9,fantasy
+54437,Lian Qi Shi Wan Nian,7.43,2241,10978,2725,704,currently_airing,2023-02-18,,260,"action, adventure, fantasy, historical, martial arts",suoyi technology,airing,2025-04-16,2023.0,7-7.9,historical
+54437,Lian Qi Shi Wan Nian,7.43,2241,10978,2725,704,currently_airing,2023-02-18,,260,"action, adventure, fantasy, historical, martial arts",suoyi technology,airing,2025-04-16,2023.0,7-7.9,martial arts
+56717,Xian Wu Chuan 2nd Season,7.42,2288,12470,1729,446,currently_airing,2023-09-24,,156,"action, adventure, fantasy, historical, martial arts",xiaoming taiji,airing,2025-04-16,2023.0,7-7.9,action
+56717,Xian Wu Chuan 2nd Season,7.42,2288,12470,1729,446,currently_airing,2023-09-24,,156,"action, adventure, fantasy, historical, martial arts",xiaoming taiji,airing,2025-04-16,2023.0,7-7.9,adventure
+56717,Xian Wu Chuan 2nd Season,7.42,2288,12470,1729,446,currently_airing,2023-09-24,,156,"action, adventure, fantasy, historical, martial arts",xiaoming taiji,airing,2025-04-16,2023.0,7-7.9,fantasy
+56717,Xian Wu Chuan 2nd Season,7.42,2288,12470,1729,446,currently_airing,2023-09-24,,156,"action, adventure, fantasy, historical, martial arts",xiaoming taiji,airing,2025-04-16,2023.0,7-7.9,historical
+56717,Xian Wu Chuan 2nd Season,7.42,2288,12470,1729,446,currently_airing,2023-09-24,,156,"action, adventure, fantasy, historical, martial arts",xiaoming taiji,airing,2025-04-16,2023.0,7-7.9,martial arts
+52709,"Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",7.42,2325,2761,71892,6854,currently_airing,2025-04-04,,0,"comedy, romance, school",j.c.staff,airing,2025-04-16,2025.0,7-7.9,comedy
+52709,"Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",7.42,2325,2761,71892,6854,currently_airing,2025-04-04,,0,"comedy, romance, school",j.c.staff,airing,2025-04-16,2025.0,7-7.9,romance
+52709,"Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",7.42,2325,2761,71892,6854,currently_airing,2025-04-04,,0,"comedy, romance, school",j.c.staff,airing,2025-04-16,2025.0,7-7.9,school
+53876,Pokemon (2023),7.41,2375,3947,36957,8581,currently_airing,2023-04-14,,0,"action, adventure, comedy, fantasy, kids",olm,airing,2025-04-16,2023.0,7-7.9,action
+53876,Pokemon (2023),7.41,2375,3947,36957,8581,currently_airing,2023-04-14,,0,"action, adventure, comedy, fantasy, kids",olm,airing,2025-04-16,2023.0,7-7.9,adventure
+53876,Pokemon (2023),7.41,2375,3947,36957,8581,currently_airing,2023-04-14,,0,"action, adventure, comedy, fantasy, kids",olm,airing,2025-04-16,2023.0,7-7.9,comedy
+53876,Pokemon (2023),7.41,2375,3947,36957,8581,currently_airing,2023-04-14,,0,"action, adventure, comedy, fantasy, kids",olm,airing,2025-04-16,2023.0,7-7.9,fantasy
+53876,Pokemon (2023),7.41,2375,3947,36957,8581,currently_airing,2023-04-14,,0,"action, adventure, comedy, fantasy, kids",olm,airing,2025-04-16,2023.0,7-7.9,kids
+56885,Sousou no Frieren: ●● no Mahou,7.4,2410,5257,19422,8269,currently_airing,2023-10-11,,0,"comedy, fantasy",toho animation studio,airing,2025-04-16,2023.0,7-7.9,comedy
+56885,Sousou no Frieren: ●● no Mahou,7.4,2410,5257,19422,8269,currently_airing,2023-10-11,,0,"comedy, fantasy",toho animation studio,airing,2025-04-16,2023.0,7-7.9,fantasy
+60658,Hibi wa Sugiredo Meshi Umashi,7.38,2518,6294,12114,1054,currently_airing,2025-04-13,,12,"adult cast, cgdct, gourmet",p.a. works,airing,2025-04-16,2025.0,7-7.9,adult cast
+60658,Hibi wa Sugiredo Meshi Umashi,7.38,2518,6294,12114,1054,currently_airing,2025-04-13,,12,"adult cast, cgdct, gourmet",p.a. works,airing,2025-04-16,2025.0,7-7.9,cgdct
+60658,Hibi wa Sugiredo Meshi Umashi,7.38,2518,6294,12114,1054,currently_airing,2025-04-13,,12,"adult cast, cgdct, gourmet",p.a. works,airing,2025-04-16,2025.0,7-7.9,gourmet
+58725,Ninja to Koroshiya no Futarigurashi,7.36,2568,5395,18109,1831,currently_airing,2025-04-10,,12,"shounen, slice of life",shaft,airing,2025-04-16,2025.0,7-7.9,shounen
+58725,Ninja to Koroshiya no Futarigurashi,7.36,2568,5395,18109,1831,currently_airing,2025-04-10,,12,"shounen, slice of life",shaft,airing,2025-04-16,2025.0,7-7.9,slice of life
+36686,Hifuu Katsudou Kiroku: The Sealed Esoteric History,7.35,2605,7121,9034,1202,currently_airing,2015-12-29,,0,fantasy,,airing,2025-04-16,2015.0,7-7.9,fantasy
+59452,"Katainaka no Ossan, Kensei ni Naru",7.35,2625,2816,69279,6400,currently_airing,2025-04-05,,0,"action, adventure, fantasy","passione, hayabusa film",airing,2025-04-16,2025.0,7-7.9,action
+59452,"Katainaka no Ossan, Kensei ni Naru",7.35,2625,2816,69279,6400,currently_airing,2025-04-05,,0,"action, adventure, fantasy","passione, hayabusa film",airing,2025-04-16,2025.0,7-7.9,adventure
+59452,"Katainaka no Ossan, Kensei ni Naru",7.35,2625,2816,69279,6400,currently_airing,2025-04-05,,0,"action, adventure, fantasy","passione, hayabusa film",airing,2025-04-16,2025.0,7-7.9,fantasy
+52807,One Punch Man 3,,,930,280731,2,not_yet_aired,,,0,"action, adult cast, comedy, parody, seinen, super power",j.c.staff,upcoming,2025-04-16,,,action
+52807,One Punch Man 3,,,930,280731,2,not_yet_aired,,,0,"action, adult cast, comedy, parody, seinen, super power",j.c.staff,upcoming,2025-04-16,,,adult cast
+52807,One Punch Man 3,,,930,280731,2,not_yet_aired,,,0,"action, adult cast, comedy, parody, seinen, super power",j.c.staff,upcoming,2025-04-16,,,comedy
+52807,One Punch Man 3,,,930,280731,2,not_yet_aired,,,0,"action, adult cast, comedy, parody, seinen, super power",j.c.staff,upcoming,2025-04-16,,,parody
+52807,One Punch Man 3,,,930,280731,2,not_yet_aired,,,0,"action, adult cast, comedy, parody, seinen, super power",j.c.staff,upcoming,2025-04-16,,,seinen
+52807,One Punch Man 3,,,930,280731,2,not_yet_aired,,,0,"action, adult cast, comedy, parody, seinen, super power",j.c.staff,upcoming,2025-04-16,,,super power
+53065,Sono Bisque Doll wa Koi wo Suru Season 2,,,1428,178443,2,not_yet_aired,,,0,"otaku culture, romance, school, seinen",cloverworks,upcoming,2025-04-16,,,otaku culture
+53065,Sono Bisque Doll wa Koi wo Suru Season 2,,,1428,178443,2,not_yet_aired,,,0,"otaku culture, romance, school, seinen",cloverworks,upcoming,2025-04-16,,,romance
+53065,Sono Bisque Doll wa Koi wo Suru Season 2,,,1428,178443,2,not_yet_aired,,,0,"otaku culture, romance, school, seinen",cloverworks,upcoming,2025-04-16,,,school
+53065,Sono Bisque Doll wa Koi wo Suru Season 2,,,1428,178443,2,not_yet_aired,,,0,"otaku culture, romance, school, seinen",cloverworks,upcoming,2025-04-16,,,seinen
+49233,Youjo Senki II,,,1486,172162,3,not_yet_aired,,,0,"action, fantasy, isekai, military, reincarnation",nut,upcoming,2025-04-16,,,action
+49233,Youjo Senki II,,,1486,172162,3,not_yet_aired,,,0,"action, fantasy, isekai, military, reincarnation",nut,upcoming,2025-04-16,,,fantasy
+49233,Youjo Senki II,,,1486,172162,3,not_yet_aired,,,0,"action, fantasy, isekai, military, reincarnation",nut,upcoming,2025-04-16,,,isekai
+49233,Youjo Senki II,,,1486,172162,3,not_yet_aired,,,0,"action, fantasy, isekai, military, reincarnation",nut,upcoming,2025-04-16,,,military
+49233,Youjo Senki II,,,1486,172162,3,not_yet_aired,,,0,"action, fantasy, isekai, military, reincarnation",nut,upcoming,2025-04-16,,,reincarnation
+55825,Jigokuraku 2nd Season,,,1637,153169,2,not_yet_aired,,,0,"action, adventure, gore, historical, samurai, shounen, supernatural",mappa,upcoming,2025-04-16,,,action
+55825,Jigokuraku 2nd Season,,,1637,153169,2,not_yet_aired,,,0,"action, adventure, gore, historical, samurai, shounen, supernatural",mappa,upcoming,2025-04-16,,,adventure
+55825,Jigokuraku 2nd Season,,,1637,153169,2,not_yet_aired,,,0,"action, adventure, gore, historical, samurai, shounen, supernatural",mappa,upcoming,2025-04-16,,,gore
+55825,Jigokuraku 2nd Season,,,1637,153169,2,not_yet_aired,,,0,"action, adventure, gore, historical, samurai, shounen, supernatural",mappa,upcoming,2025-04-16,,,historical
+55825,Jigokuraku 2nd Season,,,1637,153169,2,not_yet_aired,,,0,"action, adventure, gore, historical, samurai, shounen, supernatural",mappa,upcoming,2025-04-16,,,samurai
+55825,Jigokuraku 2nd Season,,,1637,153169,2,not_yet_aired,,,0,"action, adventure, gore, historical, samurai, shounen, supernatural",mappa,upcoming,2025-04-16,,,shounen
+55825,Jigokuraku 2nd Season,,,1637,153169,2,not_yet_aired,,,0,"action, adventure, gore, historical, samurai, shounen, supernatural",mappa,upcoming,2025-04-16,,,supernatural
+59978,Sousou no Frieren 2nd Season,,,1680,147391,8,not_yet_aired,,,0,"adventure, drama, fantasy, shounen",madhouse,upcoming,2025-04-16,,,adventure
+59978,Sousou no Frieren 2nd Season,,,1680,147391,8,not_yet_aired,,,0,"adventure, drama, fantasy, shounen",madhouse,upcoming,2025-04-16,,,drama
+59978,Sousou no Frieren 2nd Season,,,1680,147391,8,not_yet_aired,,,0,"adventure, drama, fantasy, shounen",madhouse,upcoming,2025-04-16,,,fantasy
+59978,Sousou no Frieren 2nd Season,,,1680,147391,8,not_yet_aired,,,0,"adventure, drama, fantasy, shounen",madhouse,upcoming,2025-04-16,,,shounen
+60543,Dandadan 2nd Season,,,1692,146445,7,not_yet_aired,2025-07-04,,0,"action, comedy, shounen, supernatural",science saru,upcoming,2025-04-16,2025.0,,action
+60543,Dandadan 2nd Season,,,1692,146445,7,not_yet_aired,2025-07-04,,0,"action, comedy, shounen, supernatural",science saru,upcoming,2025-04-16,2025.0,,comedy
+60543,Dandadan 2nd Season,,,1692,146445,7,not_yet_aired,2025-07-04,,0,"action, comedy, shounen, supernatural",science saru,upcoming,2025-04-16,2025.0,,shounen
+60543,Dandadan 2nd Season,,,1692,146445,7,not_yet_aired,2025-07-04,,0,"action, comedy, shounen, supernatural",science saru,upcoming,2025-04-16,2025.0,,supernatural
+59192,Kimetsu no Yaiba Movie: Mugen Jou-hen,,,1784,136095,10,not_yet_aired,2025-07-18,,3,"action, historical, shounen, supernatural",ufotable,upcoming,2025-04-16,2025.0,,action
+59192,Kimetsu no Yaiba Movie: Mugen Jou-hen,,,1784,136095,10,not_yet_aired,2025-07-18,,3,"action, historical, shounen, supernatural",ufotable,upcoming,2025-04-16,2025.0,,historical
+59192,Kimetsu no Yaiba Movie: Mugen Jou-hen,,,1784,136095,10,not_yet_aired,2025-07-18,,3,"action, historical, shounen, supernatural",ufotable,upcoming,2025-04-16,2025.0,,shounen
+59192,Kimetsu no Yaiba Movie: Mugen Jou-hen,,,1784,136095,10,not_yet_aired,2025-07-18,,3,"action, historical, shounen, supernatural",ufotable,upcoming,2025-04-16,2025.0,,supernatural
+59027,Spy x Family Season 3,,,1897,125850,2,not_yet_aired,,,0,"action, childcare, comedy, shounen, super power",,upcoming,2025-04-16,,,action
+59027,Spy x Family Season 3,,,1897,125850,2,not_yet_aired,,,0,"action, childcare, comedy, shounen, super power",,upcoming,2025-04-16,,,childcare
+59027,Spy x Family Season 3,,,1897,125850,2,not_yet_aired,,,0,"action, childcare, comedy, shounen, super power",,upcoming,2025-04-16,,,comedy
+59027,Spy x Family Season 3,,,1897,125850,2,not_yet_aired,,,0,"action, childcare, comedy, shounen, super power",,upcoming,2025-04-16,,,shounen
+59027,Spy x Family Season 3,,,1897,125850,2,not_yet_aired,,,0,"action, childcare, comedy, shounen, super power",,upcoming,2025-04-16,,,super power
+59193,Mushoku Tensei III: Isekai Ittara Honki Dasu,,,2001,118363,2,not_yet_aired,,,0,"adventure, drama, ecchi, fantasy, isekai, reincarnation",studio bind,upcoming,2025-04-16,,,adventure
+59193,Mushoku Tensei III: Isekai Ittara Honki Dasu,,,2001,118363,2,not_yet_aired,,,0,"adventure, drama, ecchi, fantasy, isekai, reincarnation",studio bind,upcoming,2025-04-16,,,drama
+59193,Mushoku Tensei III: Isekai Ittara Honki Dasu,,,2001,118363,2,not_yet_aired,,,0,"adventure, drama, ecchi, fantasy, isekai, reincarnation",studio bind,upcoming,2025-04-16,,,ecchi
+59193,Mushoku Tensei III: Isekai Ittara Honki Dasu,,,2001,118363,2,not_yet_aired,,,0,"adventure, drama, ecchi, fantasy, isekai, reincarnation",studio bind,upcoming,2025-04-16,,,fantasy
+59193,Mushoku Tensei III: Isekai Ittara Honki Dasu,,,2001,118363,2,not_yet_aired,,,0,"adventure, drama, ecchi, fantasy, isekai, reincarnation",studio bind,upcoming,2025-04-16,,,isekai
+59193,Mushoku Tensei III: Isekai Ittara Honki Dasu,,,2001,118363,2,not_yet_aired,,,0,"adventure, drama, ecchi, fantasy, isekai, reincarnation",studio bind,upcoming,2025-04-16,,,reincarnation
+57555,Chainsaw Man Movie: Reze-hen,,,2084,111815,6,not_yet_aired,2025-09-19,2025-09-19,1,"action, fantasy, gore, shounen, urban fantasy",mappa,upcoming,2025-04-16,2025.0,,action
+57555,Chainsaw Man Movie: Reze-hen,,,2084,111815,6,not_yet_aired,2025-09-19,2025-09-19,1,"action, fantasy, gore, shounen, urban fantasy",mappa,upcoming,2025-04-16,2025.0,,fantasy
+57555,Chainsaw Man Movie: Reze-hen,,,2084,111815,6,not_yet_aired,2025-09-19,2025-09-19,1,"action, fantasy, gore, shounen, urban fantasy",mappa,upcoming,2025-04-16,2025.0,,gore
+57555,Chainsaw Man Movie: Reze-hen,,,2084,111815,6,not_yet_aired,2025-09-19,2025-09-19,1,"action, fantasy, gore, shounen, urban fantasy",mappa,upcoming,2025-04-16,2025.0,,shounen
+57555,Chainsaw Man Movie: Reze-hen,,,2084,111815,6,not_yet_aired,2025-09-19,2025-09-19,1,"action, fantasy, gore, shounen, urban fantasy",mappa,upcoming,2025-04-16,2025.0,,urban fantasy
+59177,Kaijuu 8-gou 2nd Season,,,2152,106155,3,not_yet_aired,,,0,"action, adult cast, fantasy, military, sci-fi, shounen, urban fantasy",production i.g,upcoming,2025-04-16,,,action
+59177,Kaijuu 8-gou 2nd Season,,,2152,106155,3,not_yet_aired,,,0,"action, adult cast, fantasy, military, sci-fi, shounen, urban fantasy",production i.g,upcoming,2025-04-16,,,adult cast
+59177,Kaijuu 8-gou 2nd Season,,,2152,106155,3,not_yet_aired,,,0,"action, adult cast, fantasy, military, sci-fi, shounen, urban fantasy",production i.g,upcoming,2025-04-16,,,fantasy
+59177,Kaijuu 8-gou 2nd Season,,,2152,106155,3,not_yet_aired,,,0,"action, adult cast, fantasy, military, sci-fi, shounen, urban fantasy",production i.g,upcoming,2025-04-16,,,military
+59177,Kaijuu 8-gou 2nd Season,,,2152,106155,3,not_yet_aired,,,0,"action, adult cast, fantasy, military, sci-fi, shounen, urban fantasy",production i.g,upcoming,2025-04-16,,,sci-fi
+59177,Kaijuu 8-gou 2nd Season,,,2152,106155,3,not_yet_aired,,,0,"action, adult cast, fantasy, military, sci-fi, shounen, urban fantasy",production i.g,upcoming,2025-04-16,,,shounen
+59177,Kaijuu 8-gou 2nd Season,,,2152,106155,3,not_yet_aired,,,0,"action, adult cast, fantasy, military, sci-fi, shounen, urban fantasy",production i.g,upcoming,2025-04-16,,,urban fantasy
+57658,Jujutsu Kaisen: Shimetsu Kaiyuu,,,2260,99038,1,not_yet_aired,,,0,"action, school, shounen, supernatural",mappa,upcoming,2025-04-16,,,action
+57658,Jujutsu Kaisen: Shimetsu Kaiyuu,,,2260,99038,1,not_yet_aired,,,0,"action, school, shounen, supernatural",mappa,upcoming,2025-04-16,,,school
+57658,Jujutsu Kaisen: Shimetsu Kaiyuu,,,2260,99038,1,not_yet_aired,,,0,"action, school, shounen, supernatural",mappa,upcoming,2025-04-16,,,shounen
+57658,Jujutsu Kaisen: Shimetsu Kaiyuu,,,2260,99038,1,not_yet_aired,,,0,"action, school, shounen, supernatural",mappa,upcoming,2025-04-16,,,supernatural
+60058,[Oshi no Ko] 3rd Season,,,2284,97229,2,not_yet_aired,,,0,"drama, reincarnation, seinen, showbiz",,upcoming,2025-04-16,,,drama
+60058,[Oshi no Ko] 3rd Season,,,2284,97229,2,not_yet_aired,,,0,"drama, reincarnation, seinen, showbiz",,upcoming,2025-04-16,,,reincarnation
+60058,[Oshi no Ko] 3rd Season,,,2284,97229,2,not_yet_aired,,,0,"drama, reincarnation, seinen, showbiz",,upcoming,2025-04-16,,,seinen
+60058,[Oshi no Ko] 3rd Season,,,2284,97229,2,not_yet_aired,,,0,"drama, reincarnation, seinen, showbiz",,upcoming,2025-04-16,,,showbiz
+57584,Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen,,,2481,85208,0,not_yet_aired,,,1,"action, comedy, fantasy, isekai, reincarnation",nexus,upcoming,2025-04-16,,,action
+57584,Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen,,,2481,85208,0,not_yet_aired,,,1,"action, comedy, fantasy, isekai, reincarnation",nexus,upcoming,2025-04-16,,,comedy
+57584,Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen,,,2481,85208,0,not_yet_aired,,,1,"action, comedy, fantasy, isekai, reincarnation",nexus,upcoming,2025-04-16,,,fantasy
+57584,Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen,,,2481,85208,0,not_yet_aired,,,1,"action, comedy, fantasy, isekai, reincarnation",nexus,upcoming,2025-04-16,,,isekai
+57584,Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen,,,2481,85208,0,not_yet_aired,,,1,"action, comedy, fantasy, isekai, reincarnation",nexus,upcoming,2025-04-16,,,reincarnation
+60098,Boku no Hero Academia: Final Season,,,2541,81950,0,not_yet_aired,,,0,"action, school, shounen, super power",bones,upcoming,2025-04-16,,,action
+60098,Boku no Hero Academia: Final Season,,,2541,81950,0,not_yet_aired,,,0,"action, school, shounen, super power",bones,upcoming,2025-04-16,,,school
+60098,Boku no Hero Academia: Final Season,,,2541,81950,0,not_yet_aired,,,0,"action, school, shounen, super power",bones,upcoming,2025-04-16,,,shounen
+60098,Boku no Hero Academia: Final Season,,,2541,81950,0,not_yet_aired,,,0,"action, school, shounen, super power",bones,upcoming,2025-04-16,,,super power
+54703,Fumetsu no Anata e Season 3,,,2600,78918,1,not_yet_aired,,,0,"adventure, drama, shounen, supernatural",,upcoming,2025-04-16,,,adventure
+54703,Fumetsu no Anata e Season 3,,,2600,78918,1,not_yet_aired,,,0,"adventure, drama, shounen, supernatural",,upcoming,2025-04-16,,,drama
+54703,Fumetsu no Anata e Season 3,,,2600,78918,1,not_yet_aired,,,0,"adventure, drama, shounen, supernatural",,upcoming,2025-04-16,,,shounen
+54703,Fumetsu no Anata e Season 3,,,2600,78918,1,not_yet_aired,,,0,"adventure, drama, shounen, supernatural",,upcoming,2025-04-16,,,supernatural
+59068,Dungeon Meshi 2nd Season,,,2617,78037,3,not_yet_aired,,,0,"adventure, comedy, fantasy, gourmet, seinen",,upcoming,2025-04-16,,,adventure
+59068,Dungeon Meshi 2nd Season,,,2617,78037,3,not_yet_aired,,,0,"adventure, comedy, fantasy, gourmet, seinen",,upcoming,2025-04-16,,,comedy
+59068,Dungeon Meshi 2nd Season,,,2617,78037,3,not_yet_aired,,,0,"adventure, comedy, fantasy, gourmet, seinen",,upcoming,2025-04-16,,,fantasy
+59068,Dungeon Meshi 2nd Season,,,2617,78037,3,not_yet_aired,,,0,"adventure, comedy, fantasy, gourmet, seinen",,upcoming,2025-04-16,,,gourmet
+59068,Dungeon Meshi 2nd Season,,,2617,78037,3,not_yet_aired,,,0,"adventure, comedy, fantasy, gourmet, seinen",,upcoming,2025-04-16,,,seinen
+58390,Yofukashi no Uta Season 2,,,2667,75646,5,not_yet_aired,,,0,"romance, shounen, supernatural, vampire",lidenfilms,upcoming,2025-04-16,,,romance
+58390,Yofukashi no Uta Season 2,,,2667,75646,5,not_yet_aired,,,0,"romance, shounen, supernatural, vampire",lidenfilms,upcoming,2025-04-16,,,shounen
+58390,Yofukashi no Uta Season 2,,,2667,75646,5,not_yet_aired,,,0,"romance, shounen, supernatural, vampire",lidenfilms,upcoming,2025-04-16,,,supernatural
+58390,Yofukashi no Uta Season 2,,,2667,75646,5,not_yet_aired,,,0,"romance, shounen, supernatural, vampire",lidenfilms,upcoming,2025-04-16,,,vampire
+56732,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season",,,2740,72735,1,not_yet_aired,,,0,"action, drama, fantasy, isekai, mystery, reincarnation, romance",,upcoming,2025-04-16,,,action
+56732,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season",,,2740,72735,1,not_yet_aired,,,0,"action, drama, fantasy, isekai, mystery, reincarnation, romance",,upcoming,2025-04-16,,,drama
+56732,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season",,,2740,72735,1,not_yet_aired,,,0,"action, drama, fantasy, isekai, mystery, reincarnation, romance",,upcoming,2025-04-16,,,fantasy
+56732,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season",,,2740,72735,1,not_yet_aired,,,0,"action, drama, fantasy, isekai, mystery, reincarnation, romance",,upcoming,2025-04-16,,,isekai
+56732,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season",,,2740,72735,1,not_yet_aired,,,0,"action, drama, fantasy, isekai, mystery, reincarnation, romance",,upcoming,2025-04-16,,,mystery
+56732,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season",,,2740,72735,1,not_yet_aired,,,0,"action, drama, fantasy, isekai, mystery, reincarnation, romance",,upcoming,2025-04-16,,,reincarnation
+56732,"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season",,,2740,72735,1,not_yet_aired,,,0,"action, drama, fantasy, isekai, mystery, reincarnation, romance",,upcoming,2025-04-16,,,romance
+53913,Tensei shitara Ken deshita 2,,,2754,72320,0,not_yet_aired,,,0,"action, adventure, fantasy, isekai, reincarnation",,upcoming,2025-04-16,,,action
+53913,Tensei shitara Ken deshita 2,,,2754,72320,0,not_yet_aired,,,0,"action, adventure, fantasy, isekai, reincarnation",,upcoming,2025-04-16,,,adventure
+53913,Tensei shitara Ken deshita 2,,,2754,72320,0,not_yet_aired,,,0,"action, adventure, fantasy, isekai, reincarnation",,upcoming,2025-04-16,,,fantasy
+53913,Tensei shitara Ken deshita 2,,,2754,72320,0,not_yet_aired,,,0,"action, adventure, fantasy, isekai, reincarnation",,upcoming,2025-04-16,,,isekai
+53913,Tensei shitara Ken deshita 2,,,2754,72320,0,not_yet_aired,,,0,"action, adventure, fantasy, isekai, reincarnation",,upcoming,2025-04-16,,,reincarnation
+48820,Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten,,,2772,71112,1,not_yet_aired,,,1,"drama, mahou shoujo, psychological, suspense",shaft,upcoming,2025-04-16,,,drama
+48820,Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten,,,2772,71112,1,not_yet_aired,,,1,"drama, mahou shoujo, psychological, suspense",shaft,upcoming,2025-04-16,,,mahou shoujo
+48820,Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten,,,2772,71112,1,not_yet_aired,,,1,"drama, mahou shoujo, psychological, suspense",shaft,upcoming,2025-04-16,,,psychological
+48820,Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten,,,2772,71112,1,not_yet_aired,,,1,"drama, mahou shoujo, psychological, suspense",shaft,upcoming,2025-04-16,,,suspense
+57907,Tate no Yuusha no Nariagari Season 4,,,2780,70673,3,not_yet_aired,,,0,"action, adventure, drama, fantasy, isekai",,upcoming,2025-04-16,,,action
+57907,Tate no Yuusha no Nariagari Season 4,,,2780,70673,3,not_yet_aired,,,0,"action, adventure, drama, fantasy, isekai",,upcoming,2025-04-16,,,adventure
+57907,Tate no Yuusha no Nariagari Season 4,,,2780,70673,3,not_yet_aired,,,0,"action, adventure, drama, fantasy, isekai",,upcoming,2025-04-16,,,drama
+57907,Tate no Yuusha no Nariagari Season 4,,,2780,70673,3,not_yet_aired,,,0,"action, adventure, drama, fantasy, isekai",,upcoming,2025-04-16,,,fantasy
+57907,Tate no Yuusha no Nariagari Season 4,,,2780,70673,3,not_yet_aired,,,0,"action, adventure, drama, fantasy, isekai",,upcoming,2025-04-16,,,isekai
+59970,Tensei shitara Slime Datta Ken 4th Season,,,2792,70176,1,not_yet_aired,,,0,"action, comedy, fantasy, isekai, reincarnation, shounen",,upcoming,2025-04-16,,,action
+59970,Tensei shitara Slime Datta Ken 4th Season,,,2792,70176,1,not_yet_aired,,,0,"action, comedy, fantasy, isekai, reincarnation, shounen",,upcoming,2025-04-16,,,comedy
+59970,Tensei shitara Slime Datta Ken 4th Season,,,2792,70176,1,not_yet_aired,,,0,"action, comedy, fantasy, isekai, reincarnation, shounen",,upcoming,2025-04-16,,,fantasy
+59970,Tensei shitara Slime Datta Ken 4th Season,,,2792,70176,1,not_yet_aired,,,0,"action, comedy, fantasy, isekai, reincarnation, shounen",,upcoming,2025-04-16,,,isekai
+59970,Tensei shitara Slime Datta Ken 4th Season,,,2792,70176,1,not_yet_aired,,,0,"action, comedy, fantasy, isekai, reincarnation, shounen",,upcoming,2025-04-16,,,reincarnation
+59970,Tensei shitara Slime Datta Ken 4th Season,,,2792,70176,1,not_yet_aired,,,0,"action, comedy, fantasy, isekai, reincarnation, shounen",,upcoming,2025-04-16,,,shounen
+59708,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki,,,2834,68605,2,not_yet_aired,,,0,"drama, psychological, school, suspense",lerche,upcoming,2025-04-16,,,drama
+59708,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki,,,2834,68605,2,not_yet_aired,,,0,"drama, psychological, school, suspense",lerche,upcoming,2025-04-16,,,psychological
+59708,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki,,,2834,68605,2,not_yet_aired,,,0,"drama, psychological, school, suspense",lerche,upcoming,2025-04-16,,,school
+59708,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki,,,2834,68605,2,not_yet_aired,,,0,"drama, psychological, school, suspense",lerche,upcoming,2025-04-16,,,suspense
+59873,Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Season 2,,,2848,67807,1,not_yet_aired,,,0,"comedy, romance, school",,upcoming,2025-04-16,,,comedy
+59873,Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Season 2,,,2848,67807,1,not_yet_aired,,,0,"comedy, romance, school",,upcoming,2025-04-16,,,romance
+59873,Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Season 2,,,2848,67807,1,not_yet_aired,,,0,"comedy, romance, school",,upcoming,2025-04-16,,,school
+55830,Fate/strange Fake,,,2924,64897,2977,not_yet_aired,,,0,"action, fantasy, urban fantasy",a-1 pictures,upcoming,2025-04-16,,,action
+55830,Fate/strange Fake,,,2924,64897,2977,not_yet_aired,,,0,"action, fantasy, urban fantasy",a-1 pictures,upcoming,2025-04-16,,,fantasy
+55830,Fate/strange Fake,,,2924,64897,2977,not_yet_aired,,,0,"action, fantasy, urban fantasy",a-1 pictures,upcoming,2025-04-16,,,urban fantasy
+61006,Bocchi the Rock! 2nd Season,,,2931,64548,4,not_yet_aired,,,0,"cgdct, comedy, music",cloverworks,upcoming,2025-04-16,,,cgdct
+61006,Bocchi the Rock! 2nd Season,,,2931,64548,4,not_yet_aired,,,0,"cgdct, comedy, music",cloverworks,upcoming,2025-04-16,,,comedy
+61006,Bocchi the Rock! 2nd Season,,,2931,64548,4,not_yet_aired,,,0,"cgdct, comedy, music",cloverworks,upcoming,2025-04-16,,,music
+56876,Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season,,,2940,64184,2,not_yet_aired,,,0,"romance, school",,upcoming,2025-04-16,,,romance
+56876,Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season,,,2940,64184,2,not_yet_aired,,,0,"romance, school",,upcoming,2025-04-16,,,school
+57433,Seishun Buta Yarou wa Santa Claus no Yume wo Minai,,,2988,62476,0,not_yet_aired,,,0,"drama, romance, school, supernatural",cloverworks,upcoming,2025-04-16,,,drama
+57433,Seishun Buta Yarou wa Santa Claus no Yume wo Minai,,,2988,62476,0,not_yet_aired,,,0,"drama, romance, school, supernatural",cloverworks,upcoming,2025-04-16,,,romance
+57433,Seishun Buta Yarou wa Santa Claus no Yume wo Minai,,,2988,62476,0,not_yet_aired,,,0,"drama, romance, school, supernatural",cloverworks,upcoming,2025-04-16,,,school
+57433,Seishun Buta Yarou wa Santa Claus no Yume wo Minai,,,2988,62476,0,not_yet_aired,,,0,"drama, romance, school, supernatural",cloverworks,upcoming,2025-04-16,,,supernatural
+59986,Grand Blue Season 2,,,3104,57758,2,not_yet_aired,2025-07-08,,0,"adult cast, comedy, gag humor, seinen","zero-g, liber",upcoming,2025-04-16,2025.0,,adult cast
+59986,Grand Blue Season 2,,,3104,57758,2,not_yet_aired,2025-07-08,,0,"adult cast, comedy, gag humor, seinen","zero-g, liber",upcoming,2025-04-16,2025.0,,comedy
+59986,Grand Blue Season 2,,,3104,57758,2,not_yet_aired,2025-07-08,,0,"adult cast, comedy, gag humor, seinen","zero-g, liber",upcoming,2025-04-16,2025.0,,gag humor
+59986,Grand Blue Season 2,,,3104,57758,2,not_yet_aired,2025-07-08,,0,"adult cast, comedy, gag humor, seinen","zero-g, liber",upcoming,2025-04-16,2025.0,,seinen
+59845,Kaoru Hana wa Rin to Saku,,,3133,56804,4,not_yet_aired,,,0,"drama, romance, school",cloverworks,upcoming,2025-04-16,,,drama
+59845,Kaoru Hana wa Rin to Saku,,,3133,56804,4,not_yet_aired,,,0,"drama, romance, school",cloverworks,upcoming,2025-04-16,,,romance
+59845,Kaoru Hana wa Rin to Saku,,,3133,56804,4,not_yet_aired,,,0,"drama, romance, school",cloverworks,upcoming,2025-04-16,,,school
+59139,Tsuki ga Michibiku Isekai Douchuu 3rd Season,,,3175,55452,1,not_yet_aired,,,0,"action, adventure, comedy, fantasy, isekai",,upcoming,2025-04-16,,,action
+59139,Tsuki ga Michibiku Isekai Douchuu 3rd Season,,,3175,55452,1,not_yet_aired,,,0,"action, adventure, comedy, fantasy, isekai",,upcoming,2025-04-16,,,adventure
+59139,Tsuki ga Michibiku Isekai Douchuu 3rd Season,,,3175,55452,1,not_yet_aired,,,0,"action, adventure, comedy, fantasy, isekai",,upcoming,2025-04-16,,,comedy
+59139,Tsuki ga Michibiku Isekai Douchuu 3rd Season,,,3175,55452,1,not_yet_aired,,,0,"action, adventure, comedy, fantasy, isekai",,upcoming,2025-04-16,,,fantasy
+59139,Tsuki ga Michibiku Isekai Douchuu 3rd Season,,,3175,55452,1,not_yet_aired,,,0,"action, adventure, comedy, fantasy, isekai",,upcoming,2025-04-16,,,isekai
+60285,Sakamoto Days Part 2,,,3180,55194,2,not_yet_aired,,,0,"action, adult cast, comedy, organized crime, shounen",,upcoming,2025-04-16,,,action
+60285,Sakamoto Days Part 2,,,3180,55194,2,not_yet_aired,,,0,"action, adult cast, comedy, organized crime, shounen",,upcoming,2025-04-16,,,adult cast
+60285,Sakamoto Days Part 2,,,3180,55194,2,not_yet_aired,,,0,"action, adult cast, comedy, organized crime, shounen",,upcoming,2025-04-16,,,comedy
+60285,Sakamoto Days Part 2,,,3180,55194,2,not_yet_aired,,,0,"action, adult cast, comedy, organized crime, shounen",,upcoming,2025-04-16,,,organized crime
+60285,Sakamoto Days Part 2,,,3180,55194,2,not_yet_aired,,,0,"action, adult cast, comedy, organized crime, shounen",,upcoming,2025-04-16,,,shounen
+61316,Re:Zero kara Hajimeru Isekai Seikatsu 4th Season,,,3240,53423,5,not_yet_aired,,,0,"drama, fantasy, isekai, psychological, suspense, time travel",,upcoming,2025-04-16,,,drama
+61316,Re:Zero kara Hajimeru Isekai Seikatsu 4th Season,,,3240,53423,5,not_yet_aired,,,0,"drama, fantasy, isekai, psychological, suspense, time travel",,upcoming,2025-04-16,,,fantasy
+61316,Re:Zero kara Hajimeru Isekai Seikatsu 4th Season,,,3240,53423,5,not_yet_aired,,,0,"drama, fantasy, isekai, psychological, suspense, time travel",,upcoming,2025-04-16,,,isekai
+61316,Re:Zero kara Hajimeru Isekai Seikatsu 4th Season,,,3240,53423,5,not_yet_aired,,,0,"drama, fantasy, isekai, psychological, suspense, time travel",,upcoming,2025-04-16,,,psychological
+61316,Re:Zero kara Hajimeru Isekai Seikatsu 4th Season,,,3240,53423,5,not_yet_aired,,,0,"drama, fantasy, isekai, psychological, suspense, time travel",,upcoming,2025-04-16,,,suspense
+61316,Re:Zero kara Hajimeru Isekai Seikatsu 4th Season,,,3240,53423,5,not_yet_aired,,,0,"drama, fantasy, isekai, psychological, suspense, time travel",,upcoming,2025-04-16,,,time travel
+54000,Otome Game Sekai wa Mob ni Kibishii Sekai desu 2nd Season,,,3296,51828,1,not_yet_aired,,,0,"action, fantasy, harem, isekai, mecha, reincarnation, romance, school",,upcoming,2025-04-16,,,action
+54000,Otome Game Sekai wa Mob ni Kibishii Sekai desu 2nd Season,,,3296,51828,1,not_yet_aired,,,0,"action, fantasy, harem, isekai, mecha, reincarnation, romance, school",,upcoming,2025-04-16,,,fantasy
+54000,Otome Game Sekai wa Mob ni Kibishii Sekai desu 2nd Season,,,3296,51828,1,not_yet_aired,,,0,"action, fantasy, harem, isekai, mecha, reincarnation, romance, school",,upcoming,2025-04-16,,,harem
+54000,Otome Game Sekai wa Mob ni Kibishii Sekai desu 2nd Season,,,3296,51828,1,not_yet_aired,,,0,"action, fantasy, harem, isekai, mecha, reincarnation, romance, school",,upcoming,2025-04-16,,,isekai
+54000,Otome Game Sekai wa Mob ni Kibishii Sekai desu 2nd Season,,,3296,51828,1,not_yet_aired,,,0,"action, fantasy, harem, isekai, mecha, reincarnation, romance, school",,upcoming,2025-04-16,,,mecha
+54000,Otome Game Sekai wa Mob ni Kibishii Sekai desu 2nd Season,,,3296,51828,1,not_yet_aired,,,0,"action, fantasy, harem, isekai, mecha, reincarnation, romance, school",,upcoming,2025-04-16,,,reincarnation
+54000,Otome Game Sekai wa Mob ni Kibishii Sekai desu 2nd Season,,,3296,51828,1,not_yet_aired,,,0,"action, fantasy, harem, isekai, mecha, reincarnation, romance, school",,upcoming,2025-04-16,,,romance
+54000,Otome Game Sekai wa Mob ni Kibishii Sekai desu 2nd Season,,,3296,51828,1,not_yet_aired,,,0,"action, fantasy, harem, isekai, mecha, reincarnation, romance, school",,upcoming,2025-04-16,,,school
+59229,Enen no Shouboutai: San no Shou Part 2,,,3511,46371,2,not_yet_aired,,,0,"action, fantasy, sci-fi, shounen, urban fantasy",david production,upcoming,2025-04-16,,,action
+59229,Enen no Shouboutai: San no Shou Part 2,,,3511,46371,2,not_yet_aired,,,0,"action, fantasy, sci-fi, shounen, urban fantasy",david production,upcoming,2025-04-16,,,fantasy
+59229,Enen no Shouboutai: San no Shou Part 2,,,3511,46371,2,not_yet_aired,,,0,"action, fantasy, sci-fi, shounen, urban fantasy",david production,upcoming,2025-04-16,,,sci-fi
+59229,Enen no Shouboutai: San no Shou Part 2,,,3511,46371,2,not_yet_aired,,,0,"action, fantasy, sci-fi, shounen, urban fantasy",david production,upcoming,2025-04-16,,,shounen
+59229,Enen no Shouboutai: San no Shou Part 2,,,3511,46371,2,not_yet_aired,,,0,"action, fantasy, sci-fi, shounen, urban fantasy",david production,upcoming,2025-04-16,,,urban fantasy
+59983,Tsue to Tsurugi no Wistoria 2nd Season,,,3517,46196,2,not_yet_aired,,,0,"action, fantasy, school, shounen",,upcoming,2025-04-16,,,action
+59983,Tsue to Tsurugi no Wistoria 2nd Season,,,3517,46196,2,not_yet_aired,,,0,"action, fantasy, school, shounen",,upcoming,2025-04-16,,,fantasy
+59983,Tsue to Tsurugi no Wistoria 2nd Season,,,3517,46196,2,not_yet_aired,,,0,"action, fantasy, school, shounen",,upcoming,2025-04-16,,,school
+59983,Tsue to Tsurugi no Wistoria 2nd Season,,,3517,46196,2,not_yet_aired,,,0,"action, fantasy, school, shounen",,upcoming,2025-04-16,,,shounen
+60636,Bleach: Sennen Kessen-hen - Kashin-tan,,,3529,45944,2,not_yet_aired,,,0,"action, adventure, shounen, supernatural",,upcoming,2025-04-16,,,action
+60636,Bleach: Sennen Kessen-hen - Kashin-tan,,,3529,45944,2,not_yet_aired,,,0,"action, adventure, shounen, supernatural",,upcoming,2025-04-16,,,adventure
+60636,Bleach: Sennen Kessen-hen - Kashin-tan,,,3529,45944,2,not_yet_aired,,,0,"action, adventure, shounen, supernatural",,upcoming,2025-04-16,,,shounen
+60636,Bleach: Sennen Kessen-hen - Kashin-tan,,,3529,45944,2,not_yet_aired,,,0,"action, adventure, shounen, supernatural",,upcoming,2025-04-16,,,supernatural
+61322,Dr. Stone: Science Future Part 2,,,3566,45105,8,not_yet_aired,,,0,"adventure, comedy, sci-fi, shounen",,upcoming,2025-04-16,,,adventure
+61322,Dr. Stone: Science Future Part 2,,,3566,45105,8,not_yet_aired,,,0,"adventure, comedy, sci-fi, shounen",,upcoming,2025-04-16,,,comedy
+61322,Dr. Stone: Science Future Part 2,,,3566,45105,8,not_yet_aired,,,0,"adventure, comedy, sci-fi, shounen",,upcoming,2025-04-16,,,sci-fi
+61322,Dr. Stone: Science Future Part 2,,,3566,45105,8,not_yet_aired,,,0,"adventure, comedy, sci-fi, shounen",,upcoming,2025-04-16,,,shounen
+59062,Gachiakuta,,,3571,45021,5,not_yet_aired,,,0,"action, fantasy, shounen",bones film,upcoming,2025-04-16,,,action
+59062,Gachiakuta,,,3571,45021,5,not_yet_aired,,,0,"action, fantasy, shounen",bones film,upcoming,2025-04-16,,,fantasy
+59062,Gachiakuta,,,3571,45021,5,not_yet_aired,,,0,"action, fantasy, shounen",bones film,upcoming,2025-04-16,,,shounen
+54250,Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen),,,3611,44173,2,not_yet_aired,,,0,"adventure, drama, fantasy, gore, mystery, sci-fi",,upcoming,2025-04-16,,,adventure
+54250,Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen),,,3611,44173,2,not_yet_aired,,,0,"adventure, drama, fantasy, gore, mystery, sci-fi",,upcoming,2025-04-16,,,drama
+54250,Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen),,,3611,44173,2,not_yet_aired,,,0,"adventure, drama, fantasy, gore, mystery, sci-fi",,upcoming,2025-04-16,,,fantasy
+54250,Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen),,,3611,44173,2,not_yet_aired,,,0,"adventure, drama, fantasy, gore, mystery, sci-fi",,upcoming,2025-04-16,,,gore
+54250,Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen),,,3611,44173,2,not_yet_aired,,,0,"adventure, drama, fantasy, gore, mystery, sci-fi",,upcoming,2025-04-16,,,mystery
+54250,Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen),,,3611,44173,2,not_yet_aired,,,0,"adventure, drama, fantasy, gore, mystery, sci-fi",,upcoming,2025-04-16,,,sci-fi
+52480,"Tantei wa Mou, Shindeiru. Season 2",,,3639,43453,0,not_yet_aired,,,0,"comedy, detective, mystery, romance",,upcoming,2025-04-16,,,comedy
+52480,"Tantei wa Mou, Shindeiru. Season 2",,,3639,43453,0,not_yet_aired,,,0,"comedy, detective, mystery, romance",,upcoming,2025-04-16,,,detective
+52480,"Tantei wa Mou, Shindeiru. Season 2",,,3639,43453,0,not_yet_aired,,,0,"comedy, detective, mystery, romance",,upcoming,2025-04-16,,,mystery
+52480,"Tantei wa Mou, Shindeiru. Season 2",,,3639,43453,0,not_yet_aired,,,0,"comedy, detective, mystery, romance",,upcoming,2025-04-16,,,romance
+59833,Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage,,,3688,42430,288,not_yet_aired,2025-04-25,2025-04-25,2,"adventure, comedy, fantasy, isekai, parody",drive,upcoming,2025-04-16,2025.0,,adventure
+59833,Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage,,,3688,42430,288,not_yet_aired,2025-04-25,2025-04-25,2,"adventure, comedy, fantasy, isekai, parody",drive,upcoming,2025-04-16,2025.0,,comedy
+59833,Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage,,,3688,42430,288,not_yet_aired,2025-04-25,2025-04-25,2,"adventure, comedy, fantasy, isekai, parody",drive,upcoming,2025-04-16,2025.0,,fantasy
+59833,Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage,,,3688,42430,288,not_yet_aired,2025-04-25,2025-04-25,2,"adventure, comedy, fantasy, isekai, parody",drive,upcoming,2025-04-16,2025.0,,isekai
+59833,Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage,,,3688,42430,288,not_yet_aired,2025-04-25,2025-04-25,2,"adventure, comedy, fantasy, isekai, parody",drive,upcoming,2025-04-16,2025.0,,parody
+52750,SK∞ 2nd Season,,,3691,42415,0,not_yet_aired,,,0,"racing, sports",bones,upcoming,2025-04-16,,,racing
+52750,SK∞ 2nd Season,,,3691,42415,0,not_yet_aired,,,0,"racing, sports",bones,upcoming,2025-04-16,,,sports
+47158,Tomodachi no Imouto ga Ore ni dake Uzai,,,3696,42253,0,not_yet_aired,,,0,"comedy, romance, school",blade,upcoming,2025-04-16,,,comedy
+47158,Tomodachi no Imouto ga Ore ni dake Uzai,,,3696,42253,0,not_yet_aired,,,0,"comedy, romance, school",blade,upcoming,2025-04-16,,,romance
+47158,Tomodachi no Imouto ga Ore ni dake Uzai,,,3696,42253,0,not_yet_aired,,,0,"comedy, romance, school",blade,upcoming,2025-04-16,,,school
+51553,Tongari Boushi no Atelier,,,3728,41682,2,not_yet_aired,,,0,"fantasy, seinen",bug films,upcoming,2025-04-16,,,fantasy
+51553,Tongari Boushi no Atelier,,,3728,41682,2,not_yet_aired,,,0,"fantasy, seinen",bug films,upcoming,2025-04-16,,,seinen
+59654,Jujutsu Kaisen: Kaigyoku/Gyokusetsu,,,3781,40641,1,not_yet_aired,2025-05-30,2025-05-30,1,"action, gore, school, shounen, supernatural",mappa,upcoming,2025-04-16,2025.0,,action
+59654,Jujutsu Kaisen: Kaigyoku/Gyokusetsu,,,3781,40641,1,not_yet_aired,2025-05-30,2025-05-30,1,"action, gore, school, shounen, supernatural",mappa,upcoming,2025-04-16,2025.0,,gore
+59654,Jujutsu Kaisen: Kaigyoku/Gyokusetsu,,,3781,40641,1,not_yet_aired,2025-05-30,2025-05-30,1,"action, gore, school, shounen, supernatural",mappa,upcoming,2025-04-16,2025.0,,school
+59654,Jujutsu Kaisen: Kaigyoku/Gyokusetsu,,,3781,40641,1,not_yet_aired,2025-05-30,2025-05-30,1,"action, gore, school, shounen, supernatural",mappa,upcoming,2025-04-16,2025.0,,shounen
+59654,Jujutsu Kaisen: Kaigyoku/Gyokusetsu,,,3781,40641,1,not_yet_aired,2025-05-30,2025-05-30,1,"action, gore, school, shounen, supernatural",mappa,upcoming,2025-04-16,2025.0,,supernatural
+58934,Mashle (Zoku-hen),,,3785,40558,1,not_yet_aired,,,0,"action, comedy, fantasy, gag humor, parody, school, shounen",,upcoming,2025-04-16,,,action
+58934,Mashle (Zoku-hen),,,3785,40558,1,not_yet_aired,,,0,"action, comedy, fantasy, gag humor, parody, school, shounen",,upcoming,2025-04-16,,,comedy
+58934,Mashle (Zoku-hen),,,3785,40558,1,not_yet_aired,,,0,"action, comedy, fantasy, gag humor, parody, school, shounen",,upcoming,2025-04-16,,,fantasy
+58934,Mashle (Zoku-hen),,,3785,40558,1,not_yet_aired,,,0,"action, comedy, fantasy, gag humor, parody, school, shounen",,upcoming,2025-04-16,,,gag humor
+58934,Mashle (Zoku-hen),,,3785,40558,1,not_yet_aired,,,0,"action, comedy, fantasy, gag humor, parody, school, shounen",,upcoming,2025-04-16,,,parody
+58934,Mashle (Zoku-hen),,,3785,40558,1,not_yet_aired,,,0,"action, comedy, fantasy, gag humor, parody, school, shounen",,upcoming,2025-04-16,,,school
+58934,Mashle (Zoku-hen),,,3785,40558,1,not_yet_aired,,,0,"action, comedy, fantasy, gag humor, parody, school, shounen",,upcoming,2025-04-16,,,shounen
+58967,Haikyuu!! Movie: vs. Chiisana Kyojin,,,3797,40396,1,not_yet_aired,,,1,"school, shounen, sports, team sports",production i.g,upcoming,2025-04-16,,,school
+58967,Haikyuu!! Movie: vs. Chiisana Kyojin,,,3797,40396,1,not_yet_aired,,,1,"school, shounen, sports, team sports",production i.g,upcoming,2025-04-16,,,shounen
+58967,Haikyuu!! Movie: vs. Chiisana Kyojin,,,3797,40396,1,not_yet_aired,,,1,"school, shounen, sports, team sports",production i.g,upcoming,2025-04-16,,,sports
+58967,Haikyuu!! Movie: vs. Chiisana Kyojin,,,3797,40396,1,not_yet_aired,,,1,"school, shounen, sports, team sports",production i.g,upcoming,2025-04-16,,,team sports
+54440,Lycoris Recoil (Shinsaku Animation),,,3844,39210,0,not_yet_aired,,,0,action,,upcoming,2025-04-16,,,action
