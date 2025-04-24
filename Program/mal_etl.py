@@ -143,7 +143,7 @@ def transform_to_dataframe(data: list[dict]) -> pd.DataFrame:
     return df
 
 @task(name="load-anime-to-bigquery", log_prints=True)
-def load_to_bigquery(df: pd.DataFrame, table_name: str, project_id: str, dataset_id: str, credentials, if_exists: str = "append"):
+def load_to_bigquery(df: pd.DataFrame, table_name: str, project_id: str, dataset_id: str, credentials, if_exists: str = "replace"):
     print("DataFrame shape:", df.shape)
     print("DataFrame preview:\n", df.head())
     pandas_gbq.to_gbq(
@@ -155,7 +155,7 @@ def load_to_bigquery(df: pd.DataFrame, table_name: str, project_id: str, dataset
     )
 
 @task(name="load-anime-to-bigquery", log_prints=True)
-def load_to_bigquery(df: pd.DataFrame, table_name: str, project_id: str, dataset_id: str, credentials, if_exists: str = "append"):
+def load_to_bigquery(df: pd.DataFrame, table_name: str, project_id: str, dataset_id: str, credentials, if_exists: str = "replace"):
     pandas_gbq.to_gbq(
         dataframe=df,
         destination_table=f"{dataset_id}.{table_name}",
